@@ -1,0 +1,478 @@
+Canada	25
+Albania	2
+Albania	2
+Albania	2
+Albania	2
+Albania	2
+Albania	2
+Albania	2
+Albania	2
+Albania	2
+Algeria	3
+Algeria	3
+Algeria	3
+Algeria	3
+Algeria	3
+Algeria	3
+Algeria	3
+Algeria	3
+Algeria	3
+Australia	9
+Australia	9
+Australia	9
+Australia	9
+Australia	9
+Australia	9
+Australia	9
+Australia	9
+Australia	9
+Austria	10
+Austria	10
+Austria	10
+Austria	10
+Austria	10
+Austria	10
+Austria	10
+Austria	10
+Austria	10
+Bahrain	15
+Bahrain	15
+Bahrain	15
+Bahrain	15
+Bahrain	15
+Bahrain	15
+Bahrain	15
+Bahrain	15
+Bahrain	15
+Benelux-France	18
+Benelux-France	18
+Benelux-France	18
+Benelux-France	18
+Benelux-France	18
+Benelux-France	18
+Benelux-France	18
+Benelux-France	18
+Benelux-France	18
+Brazil	21
+Brazil	21
+Brazil	21
+Brazil	21
+Brazil	21
+Brazil	21
+Brazil	21
+Brazil	21
+Brazil	21
+Bulgaria	23
+Bulgaria	23
+Bulgaria	23
+Bulgaria	23
+Bulgaria	23
+Bulgaria	23
+Bulgaria	23
+Bulgaria	23
+Bulgaria	23
+Chile	30
+Chile	30
+Chile	30
+Chile	30
+Chile	30
+Chile	30
+Chile	30
+Chile	30
+Chile	30
+China	31
+China	31
+China	31
+China	31
+China	31
+China	31
+China	31
+China	31
+China	31
+Columbia	34
+Columbia	34
+Columbia	34
+Columbia	34
+Columbia	34
+Columbia	34
+Columbia	34
+Columbia	34
+Columbia	34
+Czech Republic	38
+Czech Republic	38
+Czech Republic	38
+Czech Republic	38
+Czech Republic	38
+Czech Republic	38
+Czech Republic	38
+Czech Republic	38
+Czech Republic	38
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Europe	50
+Fyrom	57
+Fyrom	57
+Fyrom	57
+Fyrom	57
+Fyrom	57
+Fyrom	57
+Fyrom	57
+Fyrom	57
+Fyrom	57
+Germany	65
+Germany	65
+Germany	65
+Germany	65
+Germany	65
+Germany	65
+Germany	65
+Germany	65
+Germany	65
+Greece	70
+Greece	70
+Greece	70
+Greece	70
+Greece	70
+Greece	70
+Greece	70
+Greece	70
+Greece	70
+Hungary	76
+Hungary	76
+Hungary	76
+Hungary	76
+Hungary	76
+Hungary	76
+Hungary	76
+Hungary	76
+Hungary	76
+India	78
+India	78
+India	78
+India	78
+India	78
+India	78
+India	78
+India	78
+India	78
+Indonesia	79
+Indonesia	79
+Indonesia	79
+Indonesia	79
+Indonesia	79
+Indonesia	79
+Indonesia	79
+Indonesia	79
+Indonesia	79
+Iraq	81
+Iraq	81
+Iraq	81
+Iraq	81
+Iraq	81
+Iraq	81
+Iraq	81
+Iraq	81
+Iraq	81
+Israel	83
+Israel	83
+Israel	83
+Israel	83
+Israel	83
+Israel	83
+Israel	83
+Israel	83
+Israel	83
+Italy	84
+Italy	84
+Italy	84
+Italy	84
+Italy	84
+Italy	84
+Italy	84
+Italy	84
+Italy	84
+Jordan	90
+Jordan	90
+Jordan	90
+Jordan	90
+Jordan	90
+Jordan	90
+Jordan	90
+Jordan	90
+Jordan	90
+South Korea	97
+South Korea	97
+South Korea	97
+South Korea	97
+South Korea	97
+South Korea	97
+South Korea	97
+South Korea	97
+South Korea	97
+Kuwait	99
+Kuwait	99
+Kuwait	99
+Kuwait	99
+Kuwait	99
+Kuwait	99
+Kuwait	99
+Kuwait	99
+Kuwait	99
+Libya	104
+Libya	104
+Libya	104
+Libya	104
+Libya	104
+Libya	104
+Libya	104
+Libya	104
+Libya	104
+Malaysia	111
+Malaysia	111
+Malaysia	111
+Malaysia	111
+Malaysia	111
+Malaysia	111
+Malaysia	111
+Malaysia	111
+Malaysia	111
+Mexico	116
+Mexico	116
+Mexico	116
+Mexico	116
+Mexico	116
+Mexico	116
+Mexico	116
+Mexico	116
+Mexico	116
+Morocco	121
+Morocco	121
+Morocco	121
+Morocco	121
+Morocco	121
+Morocco	121
+Morocco	121
+Morocco	121
+Morocco	121
+New Zealand	126
+New Zealand	126
+New Zealand	126
+New Zealand	126
+New Zealand	126
+New Zealand	126
+New Zealand	126
+New Zealand	126
+New Zealand	126
+Oman	130
+Oman	130
+Oman	130
+Oman	130
+Oman	130
+Oman	130
+Oman	130
+Oman	130
+Oman	130
+Panama	133
+Panama	133
+Panama	133
+Panama	133
+Panama	133
+Panama	133
+Panama	133
+Panama	133
+Panama	133
+Peru	135
+Peru	135
+Peru	135
+Peru	135
+Peru	135
+Peru	135
+Peru	135
+Peru	135
+Peru	135
+Poland	137
+Poland	137
+Poland	137
+Poland	137
+Poland	137
+Poland	137
+Poland	137
+Poland	137
+Poland	137
+Portugal	138
+Portugal	138
+Portugal	138
+Portugal	138
+Portugal	138
+Portugal	138
+Portugal	138
+Portugal	138
+Portugal	138
+Qatar	139
+Qatar	139
+Qatar	139
+Qatar	139
+Qatar	139
+Qatar	139
+Qatar	139
+Qatar	139
+Qatar	139
+Republica Muldova	140
+Republica Muldova	140
+Republica Muldova	140
+Republica Muldova	140
+Republica Muldova	140
+Republica Muldova	140
+Republica Muldova	140
+Republica Muldova	140
+Republica Muldova	140
+Romania	141
+Romania	141
+Romania	141
+Romania	141
+Romania	141
+Romania	141
+Romania	141
+Romania	141
+Romania	141
+Saudi Arabia	146
+Saudi Arabia	146
+Saudi Arabia	146
+Saudi Arabia	146
+Saudi Arabia	146
+Saudi Arabia	146
+Saudi Arabia	146
+Saudi Arabia	146
+Saudi Arabia	146
+Singapore	148
+Singapore	148
+Singapore	148
+Singapore	148
+Singapore	148
+Singapore	148
+Singapore	148
+Singapore	148
+Singapore	148
+Slovakia	149
+Slovakia	149
+Slovakia	149
+Slovakia	149
+Slovakia	149
+Slovakia	149
+Slovakia	149
+Slovakia	149
+Slovakia	149
+South Africa	152
+South Africa	152
+South Africa	152
+South Africa	152
+South Africa	152
+South Africa	152
+South Africa	152
+South Africa	152
+South Africa	152
+Spain	154
+Spain	154
+Spain	154
+Spain	154
+Spain	154
+Spain	154
+Spain	154
+Spain	154
+Spain	154
+Taiwan	161
+Taiwan	161
+Taiwan	161
+Taiwan	161
+Taiwan	161
+Taiwan	161
+Taiwan	161
+Taiwan	161
+Taiwan	161
+Thailand	164
+Thailand	164
+Thailand	164
+Thailand	164
+Thailand	164
+Thailand	164
+Thailand	164
+Thailand	164
+Thailand	164
+Tunisia	166
+Tunisia	166
+Tunisia	166
+Tunisia	166
+Tunisia	166
+Tunisia	166
+Tunisia	166
+Tunisia	166
+Tunisia	166
+Turkey	167
+Turkey	167
+Turkey	167
+Turkey	167
+Turkey	167
+Turkey	167
+Turkey	167
+Turkey	167
+Turkey	167
+United Arab Emirates	184
+United Arab Emirates	184
+United Arab Emirates	184
+United Arab Emirates	184
+United Arab Emirates	184
+United Arab Emirates	184
+United Arab Emirates	184
+United Arab Emirates	184
+United Arab Emirates	184
+United Kingdom	185
+United Kingdom	185
+United Kingdom	185
+United Kingdom	185
+United Kingdom	185
+United Kingdom	185
+United Kingdom	185
+United Kingdom	185
+United Kingdom	185
+United States	191
+United States	191
+United States	191
+United States	191
+United States	191
+United States	191
+United States	191
+United States	191
+United States	191
+Former Yugoslavia	198
+Former Yugoslavia	198
+Former Yugoslavia	198
+Former Yugoslavia	198
+Former Yugoslavia	198
+Former Yugoslavia	198
+Former Yugoslavia	198
+Former Yugoslavia	198
+Former Yugoslavia	198

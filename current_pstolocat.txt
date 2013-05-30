@@ -1,0 +1,504 @@
+Gen-Probe Fluoroanalyzer	Albania
+LIFECODES Donor Specific Antibody	Albania
+LIFECODES Red Cell Genotyping	Albania
+LIFECODES Screen & Identification	Albania
+LIFECODES LSA MIC	Albania
+LIFECODES LSA Single Antigen	Albania
+LIFECODES KIR Genotyping	Albania
+LIFECODES HLA Genotyping	Albania
+LIFECODES Cytokine SNP Typing	Albania
+LIFECODES Cytokine SNP Typing	Algeria
+LIFECODES KIR Genotyping	Algeria
+LIFECODES HLA Genotyping	Algeria
+LIFECODES LSA Single Antigen	Algeria
+LIFECODES LSA MIC	Algeria
+LIFECODES Screen & Identification	Algeria
+LIFECODES Red Cell Genotyping	Algeria
+LIFECODES Donor Specific Antibody	Algeria
+Gen-Probe Fluoroanalyzer	Algeria
+Gen-Probe Fluoroanalyzer	Australia
+LIFECODES Red Cell Genotyping	Australia
+LIFECODES Donor Specific Antibody	Australia
+LIFECODES Screen & Identification	Australia
+LIFECODES LSA MIC	Australia
+LIFECODES LSA Single Antigen	Australia
+LIFECODES KIR Genotyping	Australia
+LIFECODES HLA Genotyping	Australia
+LIFECODES Cytokine SNP Typing	Australia
+LIFECODES Cytokine SNP Typing	Austria
+LIFECODES HLA Genotyping	Austria
+LIFECODES KIR Genotyping	Austria
+LIFECODES LSA Single Antigen	Austria
+LIFECODES LSA MIC	Austria
+LIFECODES Screen & Identification	Austria
+Gen-Probe Fluoroanalyzer	Austria
+LIFECODES Donor Specific Antibody	Austria
+LIFECODES Red Cell Genotyping	Austria
+LIFECODES Red Cell Genotyping	Bahrain
+LIFECODES Donor Specific Antibody	Bahrain
+Gen-Probe Fluoroanalyzer	Bahrain
+LIFECODES Screen & Identification	Bahrain
+LIFECODES LSA MIC	Bahrain
+LIFECODES LSA Single Antigen	Bahrain
+LIFECODES KIR Genotyping	Bahrain
+LIFECODES HLA Genotyping	Bahrain
+LIFECODES Cytokine SNP Typing	Bahrain
+LIFECODES Cytokine SNP Typing	Benelux-France
+LIFECODES HLA Genotyping	Benelux-France
+LIFECODES LSA Single Antigen	Benelux-France
+LIFECODES KIR Genotyping	Benelux-France
+LIFECODES LSA MIC	Benelux-France
+LIFECODES Screen & Identification	Benelux-France
+LIFECODES Red Cell Genotyping	Benelux-France
+Gen-Probe Fluoroanalyzer	Benelux-France
+LIFECODES Donor Specific Antibody	Benelux-France
+LIFECODES Donor Specific Antibody	Brazil
+Gen-Probe Fluoroanalyzer	Brazil
+LIFECODES Red Cell Genotyping	Brazil
+LIFECODES Screen & Identification	Brazil
+LIFECODES LSA MIC	Brazil
+LIFECODES LSA Single Antigen	Brazil
+LIFECODES KIR Genotyping	Brazil
+LIFECODES HLA Genotyping	Brazil
+LIFECODES Cytokine SNP Typing	Brazil
+LIFECODES Cytokine SNP Typing	Bulgaria
+LIFECODES HLA Genotyping	Bulgaria
+LIFECODES KIR Genotyping	Bulgaria
+LIFECODES LSA Single Antigen	Bulgaria
+LIFECODES LSA MIC	Bulgaria
+LIFECODES Screen & Identification	Bulgaria
+LIFECODES Red Cell Genotyping	Bulgaria
+Gen-Probe Fluoroanalyzer	Bulgaria
+LIFECODES Donor Specific Antibody	Bulgaria
+LIFECODES Donor Specific Antibody	Chile
+Gen-Probe Fluoroanalyzer	Chile
+LIFECODES Red Cell Genotyping	Chile
+LIFECODES Screen & Identification	Chile
+LIFECODES LSA MIC	Chile
+LIFECODES LSA Single Antigen	Chile
+LIFECODES KIR Genotyping	Chile
+LIFECODES HLA Genotyping	Chile
+LIFECODES Cytokine SNP Typing	Chile
+LIFECODES Cytokine SNP Typing	China
+LIFECODES HLA Genotyping	China
+LIFECODES LSA Single Antigen	China
+LIFECODES KIR Genotyping	China
+LIFECODES LSA MIC	China
+LIFECODES Screen & Identification	China
+LIFECODES Red Cell Genotyping	China
+Gen-Probe Fluoroanalyzer	China
+LIFECODES Donor Specific Antibody	China
+Gen-Probe Fluoroanalyzer	Columbia
+LIFECODES Donor Specific Antibody	Columbia
+LIFECODES Red Cell Genotyping	Columbia
+LIFECODES Screen & Identification	Columbia
+LIFECODES LSA MIC	Columbia
+LIFECODES LSA Single Antigen	Columbia
+LIFECODES HLA Genotyping	Columbia
+LIFECODES KIR Genotyping	Columbia
+LIFECODES Cytokine SNP Typing	Columbia
+LIFECODES Cytokine SNP Typing	Czech Republic
+LIFECODES KIR Genotyping	Czech Republic
+LIFECODES HLA Genotyping	Czech Republic
+LIFECODES LSA Single Antigen	Czech Republic
+LIFECODES LSA MIC	Czech Republic
+LIFECODES Screen & Identification	Czech Republic
+LIFECODES Red Cell Genotyping	Czech Republic
+LIFECODES Donor Specific Antibody	Czech Republic
+Gen-Probe Fluoroanalyzer	Czech Republic
+LIFECODES Red Cell Genotyping	Europe
+LIFECODES KIR Genotyping	Europe
+LIFECODES Donor Screening	Europe
+LIFECODES LSA Single Antigen	Europe
+LIFECODES Donor Specific Antibody	Europe
+LIFECODES Screen & Identification	Europe
+LIFECODES HLA Genotyping	Europe
+LIFECODES Platelet Antibody Detection Products	Europe
+LIFECODES HPA Genotyping	Europe
+LIFECODES Platelet Antibody Detection Products	Europe
+LIFECODES HPA Genotyping	Europe
+LIFECODES Red Cell Genotyping	Europe
+LIFECODES KIR Genotyping	Europe
+LIFECODES Donor Screening	Europe
+LIFECODES LSA Single Antigen	Europe
+LIFECODES Donor Specific Antibody	Europe
+LIFECODES Screen & Identification	Europe
+LIFECODES HLA Genotyping	Europe
+LIFECODES Platelet Antibody Detection Products	Europe
+LIFECODES HPA Genotyping	Europe
+LIFECODES Red Cell Genotyping	Europe
+LIFECODES KIR Genotyping	Europe
+LIFECODES Donor Screening	Europe
+LIFECODES LSA Single Antigen	Europe
+LIFECODES Donor Specific Antibody	Europe
+LIFECODES Screen & Identification	Europe
+LIFECODES HLA Genotyping	Europe
+LIFECODES Cytokine SNP Typing	Fyrom
+LIFECODES LSA Single Antigen	Fyrom
+LIFECODES KIR Genotyping	Fyrom
+LIFECODES HLA Genotyping	Fyrom
+Gen-Probe Fluoroanalyzer	Fyrom
+LIFECODES Donor Specific Antibody	Fyrom
+LIFECODES Screen & Identification	Fyrom
+LIFECODES Red Cell Genotyping	Fyrom
+LIFECODES LSA MIC	Fyrom
+LIFECODES LSA MIC	Germany
+LIFECODES Screen & Identification	Germany
+LIFECODES Red Cell Genotyping	Germany
+LIFECODES Donor Specific Antibody	Germany
+Gen-Probe Fluoroanalyzer	Germany
+LIFECODES HLA Genotyping	Germany
+LIFECODES LSA Single Antigen	Germany
+LIFECODES KIR Genotyping	Germany
+LIFECODES Cytokine SNP Typing	Germany
+LIFECODES Cytokine SNP Typing	Greece
+LIFECODES KIR Genotyping	Greece
+LIFECODES LSA Single Antigen	Greece
+LIFECODES HLA Genotyping	Greece
+Gen-Probe Fluoroanalyzer	Greece
+LIFECODES Donor Specific Antibody	Greece
+LIFECODES Screen & Identification	Greece
+LIFECODES Red Cell Genotyping	Greece
+LIFECODES LSA MIC	Greece
+LIFECODES LSA MIC	Hungary
+LIFECODES Red Cell Genotyping	Hungary
+LIFECODES Screen & Identification	Hungary
+LIFECODES Donor Specific Antibody	Hungary
+Gen-Probe Fluoroanalyzer	Hungary
+LIFECODES HLA Genotyping	Hungary
+LIFECODES LSA Single Antigen	Hungary
+LIFECODES KIR Genotyping	Hungary
+LIFECODES Cytokine SNP Typing	Hungary
+LIFECODES Cytokine SNP Typing	India
+LIFECODES KIR Genotyping	India
+LIFECODES LSA Single Antigen	India
+LIFECODES HLA Genotyping	India
+Gen-Probe Fluoroanalyzer	India
+LIFECODES Donor Specific Antibody	India
+LIFECODES Red Cell Genotyping	India
+LIFECODES LSA MIC	India
+LIFECODES Screen & Identification	India
+LIFECODES LSA MIC	Indonesia
+LIFECODES Screen & Identification	Indonesia
+LIFECODES Red Cell Genotyping	Indonesia
+LIFECODES Donor Specific Antibody	Indonesia
+Gen-Probe Fluoroanalyzer	Indonesia
+LIFECODES HLA Genotyping	Indonesia
+LIFECODES KIR Genotyping	Indonesia
+LIFECODES LSA Single Antigen	Indonesia
+LIFECODES Cytokine SNP Typing	Indonesia
+LIFECODES Cytokine SNP Typing	Iraq
+LIFECODES KIR Genotyping	Iraq
+LIFECODES LSA Single Antigen	Iraq
+LIFECODES HLA Genotyping	Iraq
+Gen-Probe Fluoroanalyzer	Iraq
+LIFECODES Donor Specific Antibody	Iraq
+LIFECODES Red Cell Genotyping	Iraq
+LIFECODES Screen & Identification	Iraq
+LIFECODES LSA MIC	Iraq
+LIFECODES LSA MIC	Israel
+LIFECODES Screen & Identification	Israel
+LIFECODES Red Cell Genotyping	Israel
+LIFECODES Donor Specific Antibody	Israel
+Gen-Probe Fluoroanalyzer	Israel
+LIFECODES HLA Genotyping	Israel
+LIFECODES LSA Single Antigen	Israel
+LIFECODES KIR Genotyping	Israel
+LIFECODES Cytokine SNP Typing	Israel
+LIFECODES Cytokine SNP Typing	Italy
+LIFECODES KIR Genotyping	Italy
+LIFECODES LSA Single Antigen	Italy
+LIFECODES HLA Genotyping	Italy
+Gen-Probe Fluoroanalyzer	Italy
+LIFECODES Donor Specific Antibody	Italy
+LIFECODES Screen & Identification	Italy
+LIFECODES Red Cell Genotyping	Italy
+LIFECODES LSA MIC	Italy
+LIFECODES LSA MIC	Jordan
+LIFECODES Screen & Identification	Jordan
+LIFECODES Donor Specific Antibody	Jordan
+LIFECODES Red Cell Genotyping	Jordan
+Gen-Probe Fluoroanalyzer	Jordan
+LIFECODES HLA Genotyping	Jordan
+LIFECODES LSA Single Antigen	Jordan
+LIFECODES KIR Genotyping	Jordan
+LIFECODES Cytokine SNP Typing	Jordan
+LIFECODES LSA Single Antigen	South Korea
+LIFECODES Cytokine SNP Typing	South Korea
+LIFECODES HLA Genotyping	South Korea
+LIFECODES KIR Genotyping	South Korea
+Gen-Probe Fluoroanalyzer	South Korea
+LIFECODES Donor Specific Antibody	South Korea
+LIFECODES Red Cell Genotyping	South Korea
+LIFECODES LSA MIC	South Korea
+LIFECODES Screen & Identification	South Korea
+LIFECODES LSA MIC	Kuwait
+LIFECODES Screen & Identification	Kuwait
+LIFECODES Red Cell Genotyping	Kuwait
+LIFECODES Donor Specific Antibody	Kuwait
+Gen-Probe Fluoroanalyzer	Kuwait
+LIFECODES HLA Genotyping	Kuwait
+LIFECODES LSA Single Antigen	Kuwait
+LIFECODES KIR Genotyping	Kuwait
+LIFECODES Cytokine SNP Typing	Kuwait
+LIFECODES Cytokine SNP Typing	Libya
+LIFECODES KIR Genotyping	Libya
+LIFECODES LSA Single Antigen	Libya
+LIFECODES HLA Genotyping	Libya
+LIFECODES Red Cell Genotyping	Libya
+LIFECODES Donor Specific Antibody	Libya
+Gen-Probe Fluoroanalyzer	Libya
+LIFECODES Screen & Identification	Libya
+LIFECODES LSA MIC	Libya
+LIFECODES LSA MIC	Malaysia
+LIFECODES Screen & Identification	Malaysia
+Gen-Probe Fluoroanalyzer	Malaysia
+LIFECODES Red Cell Genotyping	Malaysia
+LIFECODES Donor Specific Antibody	Malaysia
+LIFECODES HLA Genotyping	Malaysia
+LIFECODES LSA Single Antigen	Malaysia
+LIFECODES KIR Genotyping	Malaysia
+LIFECODES Cytokine SNP Typing	Malaysia
+LIFECODES Cytokine SNP Typing	Mexico
+LIFECODES LSA Single Antigen	Mexico
+LIFECODES KIR Genotyping	Mexico
+LIFECODES HLA Genotyping	Mexico
+LIFECODES Donor Specific Antibody	Mexico
+Gen-Probe Fluoroanalyzer	Mexico
+LIFECODES Screen & Identification	Mexico
+LIFECODES Red Cell Genotyping	Mexico
+LIFECODES LSA MIC	Mexico
+LIFECODES LSA MIC	Morocco
+LIFECODES Screen & Identification	Morocco
+LIFECODES Red Cell Genotyping	Morocco
+Gen-Probe Fluoroanalyzer	Morocco
+LIFECODES Donor Specific Antibody	Morocco
+LIFECODES HLA Genotyping	Morocco
+LIFECODES KIR Genotyping	Morocco
+LIFECODES LSA Single Antigen	Morocco
+LIFECODES Cytokine SNP Typing	Morocco
+LIFECODES Cytokine SNP Typing	New Zealand
+LIFECODES LSA Single Antigen	New Zealand
+LIFECODES KIR Genotyping	New Zealand
+LIFECODES HLA Genotyping	New Zealand
+LIFECODES Donor Specific Antibody	New Zealand
+Gen-Probe Fluoroanalyzer	New Zealand
+LIFECODES Red Cell Genotyping	New Zealand
+LIFECODES Screen & Identification	New Zealand
+LIFECODES LSA MIC	New Zealand
+LIFECODES LSA MIC	Oman
+LIFECODES Screen & Identification	Oman
+LIFECODES Red Cell Genotyping	Oman
+Gen-Probe Fluoroanalyzer	Oman
+LIFECODES Donor Specific Antibody	Oman
+LIFECODES KIR Genotyping	Oman
+LIFECODES HLA Genotyping	Oman
+LIFECODES LSA Single Antigen	Oman
+LIFECODES Cytokine SNP Typing	Oman
+LIFECODES Cytokine SNP Typing	Panama
+LIFECODES LSA Single Antigen	Panama
+LIFECODES HLA Genotyping	Panama
+LIFECODES KIR Genotyping	Panama
+LIFECODES Donor Specific Antibody	Panama
+Gen-Probe Fluoroanalyzer	Panama
+LIFECODES Red Cell Genotyping	Panama
+LIFECODES Screen & Identification	Panama
+LIFECODES LSA MIC	Panama
+LIFECODES LSA MIC	Peru
+LIFECODES Screen & Identification	Peru
+Gen-Probe Fluoroanalyzer	Peru
+LIFECODES Donor Specific Antibody	Peru
+LIFECODES Red Cell Genotyping	Peru
+LIFECODES HLA Genotyping	Peru
+LIFECODES LSA Single Antigen	Peru
+LIFECODES KIR Genotyping	Peru
+LIFECODES Cytokine SNP Typing	Peru
+LIFECODES Cytokine SNP Typing	Poland
+LIFECODES KIR Genotyping	Poland
+LIFECODES LSA Single Antigen	Poland
+LIFECODES HLA Genotyping	Poland
+LIFECODES Red Cell Genotyping	Poland
+LIFECODES Donor Specific Antibody	Poland
+Gen-Probe Fluoroanalyzer	Poland
+LIFECODES Screen & Identification	Poland
+LIFECODES LSA MIC	Poland
+LIFECODES Screen & Identification	Portugal
+LIFECODES LSA MIC	Portugal
+LIFECODES LSA Single Antigen	Portugal
+LIFECODES Red Cell Genotyping	Portugal
+Gen-Probe Fluoroanalyzer	Portugal
+LIFECODES Donor Specific Antibody	Portugal
+LIFECODES HLA Genotyping	Portugal
+LIFECODES Cytokine SNP Typing	Portugal
+LIFECODES KIR Genotyping	Portugal
+LIFECODES KIR Genotyping	Qatar
+LIFECODES HLA Genotyping	Qatar
+LIFECODES Cytokine SNP Typing	Qatar
+LIFECODES Donor Specific Antibody	Qatar
+Gen-Probe Fluoroanalyzer	Qatar
+LIFECODES Red Cell Genotyping	Qatar
+LIFECODES LSA Single Antigen	Qatar
+LIFECODES Screen & Identification	Qatar
+LIFECODES LSA MIC	Qatar
+LIFECODES LSA MIC	Republica Muldova
+LIFECODES Red Cell Genotyping	Republica Muldova
+LIFECODES Screen & Identification	Republica Muldova
+LIFECODES Donor Specific Antibody	Republica Muldova
+Gen-Probe Fluoroanalyzer	Republica Muldova
+LIFECODES Cytokine SNP Typing	Republica Muldova
+LIFECODES HLA Genotyping	Republica Muldova
+LIFECODES KIR Genotyping	Republica Muldova
+LIFECODES LSA Single Antigen	Republica Muldova
+LIFECODES LSA Single Antigen	Romania
+LIFECODES KIR Genotyping	Romania
+LIFECODES HLA Genotyping	Romania
+LIFECODES Cytokine SNP Typing	Romania
+Gen-Probe Fluoroanalyzer	Romania
+LIFECODES Donor Specific Antibody	Romania
+LIFECODES Screen & Identification	Romania
+LIFECODES Red Cell Genotyping	Romania
+LIFECODES LSA MIC	Romania
+LIFECODES Red Cell Genotyping	ROW
+LIFECODES HPA Genotyping	ROW
+LIFECODES Platelet Antibody Detection Products	ROW
+LIFECODES HLA Genotyping	ROW
+LIFECODES Screen & Identification	ROW
+LIFECODES Donor Specific Antibody	ROW
+LIFECODES LSA Single Antigen	ROW
+LIFECODES Donor Screening	ROW
+LIFECODES KIR Genotyping	ROW
+LIFECODES Platelet Antibody Detection Products	ROW
+LIFECODES Red Cell Genotyping	ROW
+LIFECODES HPA Genotyping	ROW
+LIFECODES HPA Genotyping	ROW
+LIFECODES Platelet Antibody Detection Products	ROW
+LIFECODES HLA Genotyping	ROW
+LIFECODES Screen & Identification	ROW
+LIFECODES Donor Specific Antibody	ROW
+LIFECODES LSA Single Antigen	ROW
+LIFECODES Donor Screening	ROW
+LIFECODES KIR Genotyping	ROW
+LIFECODES HLA Genotyping	ROW
+LIFECODES Screen & Identification	ROW
+LIFECODES Donor Specific Antibody	ROW
+LIFECODES LSA Single Antigen	ROW
+LIFECODES Donor Screening	ROW
+LIFECODES KIR Genotyping	ROW
+LIFECODES Red Cell Genotyping	ROW
+LIFECODES Cytokine SNP Typing	Saudi Arabia
+LIFECODES HLA Genotyping	Saudi Arabia
+LIFECODES KIR Genotyping	Saudi Arabia
+Gen-Probe Fluoroanalyzer	Saudi Arabia
+LIFECODES Donor Specific Antibody	Saudi Arabia
+LIFECODES LSA MIC	Saudi Arabia
+LIFECODES Screen & Identification	Saudi Arabia
+LIFECODES LSA Single Antigen	Saudi Arabia
+LIFECODES Red Cell Genotyping	Saudi Arabia
+LIFECODES Screen & Identification	Singapore
+LIFECODES LSA Single Antigen	Singapore
+LIFECODES LSA MIC	Singapore
+LIFECODES Donor Specific Antibody	Singapore
+LIFECODES Red Cell Genotyping	Singapore
+Gen-Probe Fluoroanalyzer	Singapore
+LIFECODES KIR Genotyping	Singapore
+LIFECODES HLA Genotyping	Singapore
+LIFECODES Cytokine SNP Typing	Singapore
+LIFECODES Cytokine SNP Typing	Slovakia
+LIFECODES HLA Genotyping	Slovakia
+LIFECODES KIR Genotyping	Slovakia
+LIFECODES LSA Single Antigen	Slovakia
+Gen-Probe Fluoroanalyzer	Slovakia
+LIFECODES Donor Specific Antibody	Slovakia
+LIFECODES LSA MIC	Slovakia
+LIFECODES Screen & Identification	Slovakia
+LIFECODES Red Cell Genotyping	Slovakia
+LIFECODES Red Cell Genotyping	South Africa
+LIFECODES Screen & Identification	South Africa
+LIFECODES LSA MIC	South Africa
+LIFECODES Donor Specific Antibody	South Africa
+Gen-Probe Fluoroanalyzer	South Africa
+LIFECODES LSA Single Antigen	South Africa
+LIFECODES KIR Genotyping	South Africa
+LIFECODES HLA Genotyping	South Africa
+LIFECODES Cytokine SNP Typing	South Africa
+LIFECODES Cytokine SNP Typing	Spain
+LIFECODES HLA Genotyping	Spain
+LIFECODES KIR Genotyping	Spain
+LIFECODES LSA Single Antigen	Spain
+Gen-Probe Fluoroanalyzer	Spain
+LIFECODES Donor Specific Antibody	Spain
+LIFECODES Red Cell Genotyping	Spain
+LIFECODES LSA MIC	Spain
+LIFECODES Screen & Identification	Spain
+LIFECODES Screen & Identification	Taiwan
+LIFECODES Red Cell Genotyping	Taiwan
+LIFECODES LSA MIC	Taiwan
+LIFECODES Donor Specific Antibody	Taiwan
+Gen-Probe Fluoroanalyzer	Taiwan
+LIFECODES LSA Single Antigen	Taiwan
+LIFECODES KIR Genotyping	Taiwan
+LIFECODES HLA Genotyping	Taiwan
+LIFECODES Cytokine SNP Typing	Taiwan
+LIFECODES Cytokine SNP Typing	Thailand
+LIFECODES HLA Genotyping	Thailand
+LIFECODES LSA Single Antigen	Thailand
+LIFECODES KIR Genotyping	Thailand
+Gen-Probe Fluoroanalyzer	Thailand
+LIFECODES Donor Specific Antibody	Thailand
+LIFECODES LSA MIC	Thailand
+LIFECODES Red Cell Genotyping	Thailand
+LIFECODES Screen & Identification	Thailand
+LIFECODES Screen & Identification	Tunisia
+LIFECODES Red Cell Genotyping	Tunisia
+LIFECODES LSA MIC	Tunisia
+LIFECODES Donor Specific Antibody	Tunisia
+Gen-Probe Fluoroanalyzer	Tunisia
+LIFECODES LSA Single Antigen	Tunisia
+LIFECODES KIR Genotyping	Tunisia
+LIFECODES HLA Genotyping	Tunisia
+LIFECODES Cytokine SNP Typing	Tunisia
+LIFECODES Cytokine SNP Typing	Turkey
+LIFECODES HLA Genotyping	Turkey
+LIFECODES LSA Single Antigen	Turkey
+LIFECODES KIR Genotyping	Turkey
+Gen-Probe Fluoroanalyzer	Turkey
+LIFECODES Donor Specific Antibody	Turkey
+LIFECODES LSA MIC	Turkey
+LIFECODES Screen & Identification	Turkey
+LIFECODES Red Cell Genotyping	Turkey
+LIFECODES Screen & Identification	United Arab Emirates
+LIFECODES LSA MIC	United Arab Emirates
+LIFECODES LSA Single Antigen	United Arab Emirates
+LIFECODES Red Cell Genotyping	United Arab Emirates
+LIFECODES Donor Specific Antibody	United Arab Emirates
+Gen-Probe Fluoroanalyzer	United Arab Emirates
+LIFECODES KIR Genotyping	United Arab Emirates
+LIFECODES HLA Genotyping	United Arab Emirates
+LIFECODES Cytokine SNP Typing	United Arab Emirates
+LIFECODES Cytokine SNP Typing	United Kingdom
+LIFECODES HLA Genotyping	United Kingdom
+LIFECODES KIR Genotyping	United Kingdom
+Gen-Probe Fluoroanalyzer	United Kingdom
+LIFECODES Donor Specific Antibody	United Kingdom
+LIFECODES LSA Single Antigen	United Kingdom
+LIFECODES LSA MIC	United Kingdom
+LIFECODES Red Cell Genotyping	United Kingdom
+LIFECODES Screen & Identification	United Kingdom
+LIFECODES Screen & Identification	United States
+LIFECODES Red Cell Genotyping	United States
+LIFECODES LSA MIC	United States
+LIFECODES Donor Specific Antibody	United States
+Gen-Probe Fluoroanalyzer	United States
+LIFECODES LSA Single Antigen	United States
+LIFECODES KIR Genotyping	United States
+LIFECODES HLA Genotyping	United States
+LIFECODES Cytokine SNP Typing	United States
+Gen-Probe Fluoroanalyzer	Former Yugoslavia
+LIFECODES Donor Specific Antibody	Former Yugoslavia
+LIFECODES LSA Single Antigen	Former Yugoslavia
+LIFECODES LSA MIC	Former Yugoslavia
+LIFECODES Red Cell Genotyping	Former Yugoslavia
+LIFECODES Screen & Identification	Former Yugoslavia
+LIFECODES Cytokine SNP Typing	Former Yugoslavia
+LIFECODES HLA Genotyping	Former Yugoslavia
+LIFECODES KIR Genotyping	Former Yugoslavia

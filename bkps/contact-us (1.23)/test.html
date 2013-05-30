@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
+<title></title>
+
+<style>
+
+div.result-set {
+	background:#e1e1e1;
+	margin:20px 0;
+}
+
+</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<script>
+
+var pairsList = [['4', '12'], ['6', '41', '163'], ['8', '92'], ['9', '64', '273'], ['15', '215', '69'], ['17', '325', '66', '303', '321'], ['21', '311'], ['26', '287'], ['27', '218'], ['31', '220', '206'], ['36', '290'], ['37', '43'], ['38', '333'], ['108', '50'], ['11', '23', '57'], ['60', '138'], ['65', '286'], ['70', '115'], ['71', '365'], ['73', '270', '309'], ['76', '310'], ['87', '357'], ['88', '360'], ['93', '151', '350'], ['96', '266'], ['106', '113'], ['116', '290'], ['118', '173', '337'], ['122', '309', '347'], ['128', '293', '343'], ['135', '247'], ['136', '150'], ['139', '368'], ['101', '160', '329'], ['166', '238'], ['244', '345'], ['138', '211'], ['167', '247'], ['168', '355'], ['92', '185'], ['187', '374'], ['44', '191'], ['192', '275'], ['196', '218'], ['197', '235'], ['138', '211'], ['44', '191', '213'], ['224', '302'], ['99', '100', '226'], ['166', '238'], ['244', '345'], ['215', '255'], ['157', '257'], ['134', '258'], ['264', '323'], ['266', '155'], ['268', '214'], ['272', '287'], ['277', '301'], ['244', '302'], ['291', '319'], ['292', '44', '191', '213'], ['224', '302'], ['44', '333'], ['275', '334'], ['341', '236'], ['344', '361'], ['357', '369'], ['355', '364'], ['293', '378'], ['311', '380']]
+
+
+jQuery(function() {
+	jQuery.each(pairsList,function(_index,li) {	
+		jQuery('body').append('<div class="result-set i'+ _index +'"><h1>Address ID Set: '+li+'</h1></div>');
+		jQuery.each(li,function(index,value) {
+		    var data = {
+		        action        :'get_address_to_locations',
+		        address_id 	  : value  
+		    }
+		    
+		    jQuery.ajax({
+		    	type: "GET",
+				url: "http://newsite.gen-probe.com/contact-us/cu_controller.aspx",
+				data: data,
+				dataType:'html',
+				success:function(html) {
+		        	jQuery('div.i'+_index).append('<div class="sub-result-set"><h2>Address ID: '+value+'</h2>'+html+'</div>');
+		    	},
+		    	async:false
+			});
+		});
+	});
+});
+
+</script>
+
+</head>
+<body>
+</body>
+</html>

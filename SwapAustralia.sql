@@ -1,0 +1,69 @@
+DECLARE @tbl Table (
+	informationtype_productservicetype_productservicename_location_contact_id int,
+	informationtype_productservicetype_productservicename_location_id int
+)
+
+INSERT INTO @tbl (informationtype_productservicetype_productservicename_location_contact_id, informationtype_productservicetype_productservicename_location_id)
+SELECT 
+	informationtype_productservicetype_productservicename_location_to_contact.id,
+	informationtype_productservicetype_productservicename_to_location.id
+FROM 
+	informationtype_productservicetype_productservicename_to_location
+INNER JOIN
+	informationtype_productservicetype_to_productservicename
+ON
+	informationtype_productservicetype_productservicename_to_location.informationtype_productservicetype_productservicename_id = informationtype_productservicetype_to_productservicename.id
+INNER JOIN
+	informationtype_to_productservicetype
+ON
+	informationtype_productservicetype_to_productservicename.informationtype_productservicetype_id = informationtype_to_productservicetype.id
+INNER JOIN
+	informationtype
+ON
+	informationtype.id = informationtype_to_productservicetype.informationtype_id
+INNER JOIN
+	productservicetype
+ON 
+	productservicetype.id = informationtype_to_productservicetype.productservicetype_id
+INNER JOIN
+	productservicename
+ON
+	productservicename.id = informationtype_productservicetype_to_productservicename.productservicename_id
+INNER JOIN
+	location
+ON
+	location.id = informationtype_productservicetype_productservicename_to_location.location_id
+INNER JOIN
+	informationtype_productservicetype_productservicename_location_to_contact
+ON
+	informationtype_productservicetype_productservicename_location_to_contact.informationtype_productservicetype_productservicename_location_id = informationtype_productservicetype_productservicename_to_location.id
+INNER JOIN
+	contact
+ON
+	informationtype_productservicetype_productservicename_location_to_contact.contact_id = contact.id
+INNER JOIN 
+	contact_to_facility
+ON
+	contact.id = contact_to_facility.contact_id
+INNER JOIN
+	facility
+ON
+	contact_to_facility.facility_id = facility.id
+WHERE
+	informationtype.name = 'Sales and Distribution'
+	AND
+	productservicetype.name in ('Instrument Systems', 'Microbial Infectious Diseases', 'Virals', 'Sexually Transmitted Diseases')
+	AND 
+	location.name = 'Australia'
+
+DELETE FROM informationtype_productservicetype_productservicename_location_to_contact WHERE id in (
+	SELECT informationtype_productservicetype_productservicename_location_contact_id FROM @tbl
+)
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id)	
+SELECT 
+	tbl.informationtype_productservicetype_productservicename_location_id, contacts.contact_id
+FROM 
+	@tbl as tbl
+CROSS JOIN
+	(SELECT 1674 as contact_id UNION ALL SELECT 1675) contacts

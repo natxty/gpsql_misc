@@ -1,0 +1,454 @@
+LIFECODES Serology Products	564
+LIFECODES Donor Screening	563
+LIFECODES HPA Genotyping	562
+LIFECODES Platelet Antibody Detection Products	561
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES Cytokine SNP Typing	158
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES HLA Genotyping	185
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES KIR Genotyping	210
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA Single Antigen	327
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES LSA MIC	344
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Screen & Identification	420
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Red Cell Genotyping	430
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+LIFECODES Donor Specific Antibody	455
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495
+Gen-Probe Fluoroanalyzer	495

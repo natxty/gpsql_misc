@@ -1,0 +1,14 @@
+LIFECODES HLA Genotyping	210
+LIFECODES Donor Specific Antibody	217
+Gen-Probe Fluoroanalyzer	250
+LIFECODES Cytokine SNP Typing	263
+LIFECODES Screen & Identification	356
+LIFECODES LSA Single Antigen	409
+LIFECODES Red Cell Genotyping	416
+LIFECODES KIR Genotyping	472
+LIFECODES LSA MIC	510
+LIFECODES Platelet Antibody Detection Products	563
+LIFECODES HPA Genotyping	564
+LIFECODES Donor Screening	565
+LIFECODES Serology Products	566
+LIFECODES Coagulation Products	567

@@ -1,0 +1,18 @@
+Gen-Probe Fluoroanalyzer
+LIFECODES HLA Genotyping
+LIFECODES HLA Genotyping
+LIFECODES KIR Genotyping
+LIFECODES Cytokine SNP Typing
+LIFECODES Red Cell Genotyping
+LIFECODES Red Cell Genotyping
+LIFECODES Screen & Identification 
+LIFECODES Screen & Identification
+LIFECODES LSA Single Antigen
+LIFECODES Donor Specific Antibody
+LIFECODES Donor Specific Antibody
+LIFECODES LSA MIC
+LIFECODES Serology Products
+LIFECODES Platelet Antibody Detection Products
+LIFECODES HPA Genotyping
+LIFECODES Donor Screening
+LIFECODES Coagulation Products

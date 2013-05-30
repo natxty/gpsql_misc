@@ -1,0 +1,190 @@
+SELECT 
+	productservicetype.name as productservicetype, 
+	productservicename.name as productservicename, 
+	location.name as location,
+	facility.name as contactfacility,
+	contact.id as contactid,
+	informationtype_productservicetype_productservicename_to_location.id as itype_pstype_psname_locat_id	
+FROM 
+	informationtype_productservicetype_productservicename_to_location
+INNER JOIN
+	informationtype_productservicetype_to_productservicename
+ON
+	informationtype_productservicetype_productservicename_to_location.informationtype_productservicetype_productservicename_id = informationtype_productservicetype_to_productservicename.id
+INNER JOIN
+	informationtype_to_productservicetype
+ON
+	informationtype_productservicetype_to_productservicename.informationtype_productservicetype_id = informationtype_to_productservicetype.id
+INNER JOIN
+	informationtype
+ON
+	informationtype.id = informationtype_to_productservicetype.informationtype_id
+INNER JOIN
+	productservicetype
+ON 
+	productservicetype.id = informationtype_to_productservicetype.productservicetype_id
+INNER JOIN
+	productservicename
+ON
+	productservicename.id = informationtype_productservicetype_to_productservicename.productservicename_id
+INNER JOIN
+	location
+ON
+	location.id = informationtype_productservicetype_productservicename_to_location.location_id
+INNER JOIN
+	informationtype_productservicetype_productservicename_location_to_contact
+ON
+	informationtype_productservicetype_productservicename_location_to_contact.informationtype_productservicetype_productservicename_location_id = informationtype_productservicetype_productservicename_to_location.id
+INNER JOIN
+	contact
+ON
+	informationtype_productservicetype_productservicename_location_to_contact.contact_id = contact.id
+INNER JOIN 
+	contact_to_facility
+ON
+	contact.id = contact_to_facility.contact_id
+INNER JOIN
+	facility
+ON
+	contact_to_facility.facility_id = facility.id
+WHERE
+	informationtype.name = 'Sales and Distribution'
+	AND
+	productservicetype.name in ('Transplant & Transfusion Medicine', 'Coagulation Products')
+	
+	
+	
+	
+SELECT 
+	productservicetype.name as productservicetype, 
+	productservicename.name as productservicename, 
+	location.name as location,
+	informationtype_productservicetype_productservicename_to_location.id as itype_pstype_psname_locat_id
+FROM 
+	informationtype_productservicetype_productservicename_to_location
+INNER JOIN
+	informationtype_productservicetype_to_productservicename
+ON
+	informationtype_productservicetype_productservicename_to_location.informationtype_productservicetype_productservicename_id = informationtype_productservicetype_to_productservicename.id
+INNER JOIN
+	informationtype_to_productservicetype
+ON
+	informationtype_productservicetype_to_productservicename.informationtype_productservicetype_id = informationtype_to_productservicetype.id
+INNER JOIN
+	informationtype
+ON
+	informationtype.id = informationtype_to_productservicetype.informationtype_id
+INNER JOIN
+	productservicetype
+ON 
+	productservicetype.id = informationtype_to_productservicetype.productservicetype_id
+INNER JOIN
+	productservicename
+ON
+	productservicename.id = informationtype_productservicetype_to_productservicename.productservicename_id
+INNER JOIN
+	location
+ON
+	location.id = informationtype_productservicetype_productservicename_to_location.location_id
+WHERE
+	informationtype.name = 'Sales and Distribution'
+	AND
+	productservicetype.name in ('Transplant & Transfusion Medicine', 'Coagulation Products')
+	AND
+	informationtype_productservicetype_productservicename_to_location.id not in (SELECT informationtype_productservicetype_productservicename_location_id FROM informationtype_productservicetype_productservicename_location_to_contact);
+	
+	
+	
+SELECT 
+	productserviceline.name as productserviceline, 
+	productservicename.name as productservicename, 
+	location.name as location,
+	facility.name as contactfacility,
+	contact.id as contactid,
+	informationtype_productserviceline_productservicename_to_location.id as itype_psline_psname_locat_id	
+FROM 
+	informationtype_productserviceline_productservicename_to_location
+INNER JOIN
+	informationtype_productserviceline_to_productservicename
+ON
+	informationtype_productserviceline_productservicename_to_location.informationtype_productserviceline_productservicename_id = informationtype_productserviceline_to_productservicename.id
+INNER JOIN
+	informationtype_to_productserviceline
+ON
+	informationtype_productserviceline_to_productservicename.informationtype_productserviceline_id = informationtype_to_productserviceline.id
+INNER JOIN
+	informationtype
+ON
+	informationtype.id = informationtype_to_productserviceline.informationtype_id
+INNER JOIN
+	productserviceline
+ON 
+	productserviceline.id = informationtype_to_productserviceline.productserviceline_id
+INNER JOIN
+	productservicename
+ON
+	productservicename.id = informationtype_productserviceline_to_productservicename.productservicename_id
+INNER JOIN
+	location
+ON
+	location.id = informationtype_productserviceline_productservicename_to_location.location_id
+INNER JOIN
+	informationtype_productserviceline_productservicename_location_to_contact
+ON
+	informationtype_productserviceline_productservicename_location_to_contact.informationtype_productserviceline_productservicename_location_id = informationtype_productserviceline_productservicename_to_location.id
+INNER JOIN
+	contact
+ON
+	informationtype_productserviceline_productservicename_location_to_contact.contact_id = contact.id
+INNER JOIN 
+	contact_to_facility
+ON
+	contact.id = contact_to_facility.contact_id
+INNER JOIN
+	facility
+ON
+	contact_to_facility.facility_id = facility.id
+WHERE
+	informationtype.name = 'Sales and Distribution'
+	AND
+	productserviceline.name in ('LIFECODES')
+	
+	
+SELECT 
+	productserviceline.name as productserviceline, 
+	productservicename.name as productservicename, 
+	location.name as location,
+	informationtype_productserviceline_productservicename_to_location.id as itype_psline_psname_locat_id
+FROM 
+	informationtype_productserviceline_productservicename_to_location
+INNER JOIN
+	informationtype_productserviceline_to_productservicename
+ON
+	informationtype_productserviceline_productservicename_to_location.informationtype_productserviceline_productservicename_id = informationtype_productserviceline_to_productservicename.id
+INNER JOIN
+	informationtype_to_productserviceline
+ON
+	informationtype_productserviceline_to_productservicename.informationtype_productserviceline_id = informationtype_to_productserviceline.id
+INNER JOIN
+	informationtype
+ON
+	informationtype.id = informationtype_to_productserviceline.informationtype_id
+INNER JOIN
+	productserviceline
+ON 
+	productserviceline.id = informationtype_to_productserviceline.productserviceline_id
+INNER JOIN
+	productservicename
+ON
+	productservicename.id = informationtype_productserviceline_to_productservicename.productservicename_id
+INNER JOIN
+	location
+ON
+	location.id = informationtype_productserviceline_productservicename_to_location.location_id
+WHERE
+	informationtype.name = 'Sales and Distribution'
+	AND
+	productserviceline.name in ('LIFECODES')
+	AND
+	informationtype_productserviceline_productservicename_to_location.id not in (SELECT informationtype_productserviceline_productservicename_location_id FROM informationtype_productserviceline_productservicename_location_to_contact);
+	

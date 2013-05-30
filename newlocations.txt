@@ -1,0 +1,316 @@
+facility
+	INOCHEM S.A. de C.V.
+person
+	Jesus Abrego Campos
+address
+	La Gloria No. 5 San Miguel Ajusco, Del Tlalpan C.P. 14700, Mexico, D.F. Mexico
+phone
+	52 55 1315 2423
+fax
+	52 55 1315 2423
+email
+	jabrego@inochem.com.mx
+	
+INSERT INTO facility (name) VALUES ('INOCHEM S.A. de C.V.');
+INSERT INTO contact_to_facility (contact_id, facility_id, item_order) VALUES (1588, @@IDENTITY, 1);
+
+INSERT INTO person (name) VALUES ('Jesus Abrego Campos');
+INSERT INTO contact_to_person (contact_id, person_id, item_order) VALUES (1588, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('La Gloria No. 5 San Miguel Ajusco, Del Tlalpan C.P. 14700');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1588, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('Mexico, D.F. Mexico');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1588, @@IDENTITY, 2);
+
+INSERT INTO phone (number) VALUES ('52 55 1315 2423');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1588, @@IDENTITY, 1);
+
+INSERT INTO fax (number) VALUES ('52 55 1315 2423');
+INSERT INTO contact_to_fax (contact_id, fax_id, item_order) VALUES (1588, @@IDENTITY, 1);
+
+INSERT INTO email (email) VALUES ('jabrego@inochem.com.mx');
+INSERT INTO contact_to_email (contact_id, email_id, item_order) VALUES (1588, @@IDENTITY, 1);
+
+
+facility
+	Gen-Probe GTI Diagnostics, Inc.
+person
+	Stephen Shanahan
+address
+	20925 Crossroads Circle, Waukesha, WI  53186  USA
+phone
+	+61 419 346 184
+fax
+	stephen.shanahan@bigpond.com
+
+
+INSERT INTO facility (name) VALUES ('Gen-Probe GTI Diagnostics, Inc.');
+INSERT INTO contact_to_facility (contact_id, facility_id, item_order) VALUES (1589, @@IDENTITY, 1);
+
+INSERT INTO person (name) VALUES ('Stephen Shanahan');
+INSERT INTO contact_to_person (contact_id, person_id, item_order) VALUES (1589, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('20925 Crossroads Circle, Waukesha');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1589, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('WI  53186  USA');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1589, @@IDENTITY, 2);
+
+INSERT INTO phone (number) VALUES ('+61 419 346 184');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1589, @@IDENTITY, 1);
+
+INSERT INTO email (email) VALUES ('stephen.shanahan@bigpond.com');
+INSERT INTO contact_to_email (contact_id, email_id, item_order) VALUES (1589, @@IDENTITY, 1);
+
+
+
+facility
+	Tree Med SDN, BHD
+person
+	Khairul Anuar Danial
+address
+	83A Jalan Badminton, 13/29 Tadisma Business Park, Section 13, 40100 Shah Alam, Selangor, Malaysia
+phone
+	+603 5510-0609
+fax
+	+603 5510-0932
+email
+	khairul@treemed.com.my
+	
+	
+INSERT INTO facility (name) VALUES ('Tree Med SDN, BHD');
+INSERT INTO contact_to_facility (contact_id, facility_id, item_order) VALUES (1590, @@IDENTITY, 1);
+
+INSERT INTO person (name) VALUES ('Khairul Anuar Danial');
+INSERT INTO contact_to_person (contact_id, person_id, item_order) VALUES (1590, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('83A Jalan Badminton, 13/29 Tadisma Business Park, Section 13, 40100 Shah Alam');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1590, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('Selangor, Malaysia');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1590, @@IDENTITY, 2);
+
+INSERT INTO phone (number) VALUES ('+603 5510-0609');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1590, @@IDENTITY, 1);
+
+INSERT INTO fax (number) VALUES ('+603 5510-0932');
+INSERT INTO contact_to_fax (contact_id, fax_id, item_order) VALUES (1590, @@IDENTITY, 1);
+
+INSERT INTO email (email) VALUES ('khairul@treemed.com.my');
+INSERT INTO contact_to_email (contact_id, email_id, item_order) VALUES (1590, @@IDENTITY, 1);	
+
+	
+	
+	
+facility
+	Zhuhai Bioyamei Investment Co., Ltd.
+person
+	Angela Wang
+address
+	Rm 804, Glass Building, Nanhai Oil (Zhuhai) Hotel, Shuiwan Rd 368, Zhuhai City Guangdong Province 519015, P.R. China
+phone
+	(86) 756-3339826
+fax
+	(86) 20-3885-3601
+email
+	bym_gti@yahoo.cn
+	
+	
+INSERT INTO facility (name) VALUES ('Zhuhai Bioyamei Investment Co., Ltd.');
+INSERT INTO contact_to_facility (contact_id, facility_id, item_order) VALUES (1591, @@IDENTITY, 1);
+
+INSERT INTO person (name) VALUES ('Angela Wang');
+INSERT INTO contact_to_person (contact_id, person_id, item_order) VALUES (1591, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('Rm 804, Glass Building, Nanhai Oil (Zhuhai) Hotel, Shuiwan Rd 368, Zhuhai City Guangdong Province 519015,');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1591, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('P.R. China');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1591, @@IDENTITY, 2);
+
+INSERT INTO phone (number) VALUES ('(86) 756-3339826');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1591, @@IDENTITY, 1);
+
+INSERT INTO fax (number) VALUES ('(86) 20-3885-3601');
+INSERT INTO contact_to_fax (contact_id, fax_id, item_order) VALUES (1591, @@IDENTITY, 1);
+
+INSERT INTO email (email) VALUES ('bym_gti@yahoo.cn');
+INSERT INTO contact_to_email (contact_id, email_id, item_order) VALUES (1591, @@IDENTITY, 1);	
+
+
+facility
+	Tae Yeong CnL 
+person
+	C.N. Lee, 
+address
+	Rm. 1506 DongMoon Vision Office Bldg., 318-6 ShinJeong-dong, Yangcheon-ku, Seoul, 158-076, Korea 
+phone
+	+82 2-2061-1902 
+email
+	cnlee@tycnl.com
+
+INSERT INTO facility (name) VALUES ('Tae Yeong CnL');
+INSERT INTO contact_to_facility (contact_id, facility_id, item_order) VALUES (1592, @@IDENTITY, 1);
+
+INSERT INTO person (name) VALUES ('C.N. Lee');
+INSERT INTO contact_to_person (contact_id, person_id, item_order) VALUES (1592, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('Rm. 1506 DongMoon Vision Office Bldg., 318-6 ShinJeong-dong, Yangcheon-ku');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1592, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('Seoul, 158-076, Korea');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1592, @@IDENTITY, 2);
+
+INSERT INTO phone (number) VALUES ('+82 2-2061-1902');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1592, @@IDENTITY, 1);
+
+INSERT INTO email (email) VALUES ('cnlee@tycnl.com');
+INSERT INTO contact_to_email (contact_id, email_id, item_order) VALUES (1592, @@IDENTITY, 1);	
+
+
+facility
+	Mind Biomeds Pvt. Ltd.
+person
+	Dalip Kumar
+address
+	14B/38, Ground Floor, Dev Nagar, Karol Dagh, New Delhi-5, India
+phone
+	+91 11 2573 5381
+fax
+	+91 11 2582 7781
+email
+	mindbiomeds@airtelmail.in
+	
+
+
+INSERT INTO facility (name) VALUES ('Mind Biomeds Pvt. Ltd.');
+INSERT INTO contact_to_facility (contact_id, facility_id, item_order) VALUES (1593, @@IDENTITY, 1);
+
+INSERT INTO person (name) VALUES ('Dalip Kumar');
+INSERT INTO contact_to_person (contact_id, person_id, item_order) VALUES (1593, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('14B/38, Ground Floor, Dev Nagar, Karol Dagh');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1593, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('New Delhi-5, India');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1593, @@IDENTITY, 2);
+
+INSERT INTO phone (number) VALUES ('+91 11 2573 5381');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1593, @@IDENTITY, 1);
+
+INSERT INTO fax (number) VALUES ('+91 11 2582 7781');
+INSERT INTO contact_to_fax (contact_id, fax_id, item_order) VALUES (1593, @@IDENTITY, 1);
+
+INSERT INTO email (email) VALUES ('mindbiomeds@airtelmail.in');
+INSERT INTO contact_to_email (contact_id, email_id, item_order) VALUES (1593, @@IDENTITY, 1);	
+
+
+facility
+	Inter Medico
+person
+	Diane Burella
+address
+	50 Valleywood Drive, Markham, Ontario, L3R 6E9, Canada
+phone
+	+800 387 9643 (English)
+	+800 268 1150 (French)
+fax
+	+905 470 2381
+email
+	dburella@inter-medico.com
+	
+	
+INSERT INTO facility (name) VALUES ('Inter Medico');
+INSERT INTO contact_to_facility (contact_id, facility_id, item_order) VALUES (1594, @@IDENTITY, 1);
+
+INSERT INTO person (name) VALUES ('Diane Burella');
+INSERT INTO contact_to_person (contact_id, person_id, item_order) VALUES (1594, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('50 Valleywood Drive, Markham, Ontario');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1594, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('L3R 6E9, Canada');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1594, @@IDENTITY, 2);
+
+INSERT INTO phone (number) VALUES ('+800 387 9643 (English)');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1594, @@IDENTITY, 1);
+
+INSERT INTO phone (number) VALUES ('+800 268 1150 (French)');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1594, @@IDENTITY, 2);
+
+INSERT INTO fax (number) VALUES ('+905 470 2381');
+INSERT INTO contact_to_fax (contact_id, fax_id, item_order) VALUES (1594, @@IDENTITY, 1);
+
+INSERT INTO email (email) VALUES ('dburella@inter-medico.com');
+INSERT INTO contact_to_email (contact_id, email_id, item_order) VALUES (1594, @@IDENTITY, 1);	
+	
+	
+facility
+	Beijing Rose Co-Win Medical Tech. Co., Ltd. 
+person
+	Kang Ying
+address
+	International Incubator No. 1, Bldg. Room 15A, Shangdi Xinxi Rd #2, Haidian, Beijing 100085, P.R. China  
+phone
+	+86 10 82894088 
+email
+	irene.k.y@beijingrose.com
+	
+	
+INSERT INTO facility (name) VALUES ('Beijing Rose Co-Win Medical Tech. Co., Ltd. ');
+INSERT INTO contact_to_facility (contact_id, facility_id, item_order) VALUES (1595, @@IDENTITY, 1);
+
+INSERT INTO person (name) VALUES ('Kang Ying');
+INSERT INTO contact_to_person (contact_id, person_id, item_order) VALUES (1595, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('International Incubator No. 1, Bldg. Room 15A, Shangdi Xinxi Rd #2, Haidian, Beijing 100085');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1595, @@IDENTITY, 1);
+
+INSERT INTO address (address) VALUES ('P.R. China');
+INSERT INTO contact_to_address (contact_id, address_id, item_order) VALUES (1595, @@IDENTITY, 2);
+
+INSERT INTO phone (number) VALUES ('+86 10 82894088 ');
+INSERT INTO contact_to_phone (contact_id, phone_id, item_order) VALUES (1595, @@IDENTITY, 1);
+
+INSERT INTO email (email) VALUES ('irene.k.y@beijingrose.com');
+INSERT INTO contact_to_email (contact_id, email_id, item_order) VALUES (1595, @@IDENTITY, 1);
+
+	
+	
+	
+INSERT INTO contact (label) VALUES ('INOCHEM S.A. de C.V.')
+DECLARE @ContactID INT
+SET @ContactID = CAST(SCOPE_IDENTITY() AS INT)
+select * from contact where label = 'INOCHEM S.A. de C.V.'
+
+
+INSERT INTO contact (label) VALUES ('Gen-Probe GTI Diagnostics, Inc.')
+DECLARE @ContactID INT
+SET @ContactID = CAST(SCOPE_IDENTITY() AS INT)
+select * from contact where id = @ContactID;
+
+
+INSERT INTO contact (label) VALUES ('Tree Med SDN, BHD');
+select * from contact where id = @@IDENTITY;
+
+
+
+INSERT INTO contact (label) VALUES ('Zhuhai Bioyamei Investment Co., Ltd.');
+select * from contact where id = @@IDENTITY;
+
+
+
+
+INSERT INTO contact (label) VALUES ('Tae Yeong CnL');
+select * from contact where id = @@IDENTITY;
+
+
+
+INSERT INTO contact (label) VALUES ('Mind Biomeds Pvt. Ltd.');
+
+INSERT INTO contact (label) VALUES ('Beijing Rose Co-Win Medical Tech. Co., Ltd.');
+DECLARE @ContactID INT;
+SET @ContactID = @@IDENTITY;
+select * from contact where id = @ContactID;
+

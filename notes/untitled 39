@@ -1,0 +1,76 @@
+d = {'LIFECODES Screen & Identification': ('ELISA-based','6289'), 'LIFECODES Red Cell Genotyping': ('E-Gel based Typing','6214'), 'LIFECODES Donor Specific Antibody': ('ELISA-based','4815'), 'LIFECODES HLA Genotyping': ('SSP Typing','1488')}
+
+for key,t in d.iteritems():
+	label, itype_pstype_psname_locat_id = t
+	print "--%s\nINSERT INTO informationtype_productservicetype_productservicename_location_to_contact (information_productservicetype_productservicename_location_id, contact_id, label) VALUES (%s,%s,'%s')" % (key,itype_pstype_psname_locat_id, 1598, label)
+	
+	
+informationtype productservicetype productservicename id
+LIFECODES HLA Genotyping	185
+LIFECODES LSA Single Antigen	327
+LIFECODES Screen & Identification	420
+LIFECODES Red Cell Genotyping	430
+LIFECODES Donor Specific Antibody	455
+LIFECODES Platelet Antibody Detection Products	561
+LIFECODES HPA Genotyping	562
+LIFECODES Donor Screening	563
+
+
+bvba = 1587
+
+-- HLA
+INSERT INTO informationtype_productservicetype_productservicename_to_location (informationtype_productservicetype_productservicename_id, location_id) VALUES (185,50)
+
+
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id, label) VALUES ( @@IDENTITY, 1587, 'SSO Typing & SSP Typing')
+
+-- LSA
+INSERT INTO informationtype_productservicetype_productservicename_to_location (informationtype_productservicetype_productservicename_id, location_id) VALUES (327,50)
+
+
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id, label) VALUES ( @@IDENTITY, 1587, NULL)
+
+-- SCREEN AND ID
+INSERT INTO informationtype_productservicetype_productservicename_to_location (informationtype_productservicetype_productservicename_id, location_id) VALUES (420,50)
+
+
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id, label) VALUES ( @@IDENTITY, 1587, 'Bead-based & ELISA-based')
+
+-- RED CELL
+INSERT INTO informationtype_productservicetype_productservicename_to_location (informationtype_productservicetype_productservicename_id, location_id) VALUES (430,50)
+
+
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id, label) VALUES ( @@IDENTITY, 1587, 'Luminex-based Typing & E-Gel based Typing')
+
+-- DONOR SPECIFIC
+INSERT INTO informationtype_productservicetype_productservicename_to_location (informationtype_productservicetype_productservicename_id, location_id) VALUES (455,50)
+
+
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id, label) VALUES ( @@IDENTITY, 1587, 'Bead-based & ELISA-based')
+
+-- PLATELET ANTIBODY
+INSERT INTO informationtype_productservicetype_productservicename_to_location (informationtype_productservicetype_productservicename_id, location_id) VALUES (561,50)
+
+
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id, label) VALUES ( @@IDENTITY, 1587, NULL)
+
+-- HPA
+INSERT INTO informationtype_productservicetype_productservicename_to_location (informationtype_productservicetype_productservicename_id, location_id) VALUES (562,50)
+
+
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id, label) VALUES ( @@IDENTITY, 1587, NULL)
+
+-- DONOR SCREENING
+INSERT INTO informationtype_productservicetype_productservicename_to_location (informationtype_productservicetype_productservicename_id, location_id) VALUES (563,50)
+
+
+
+INSERT INTO informationtype_productservicetype_productservicename_location_to_contact (informationtype_productservicetype_productservicename_location_id, contact_id, label) VALUES ( @@IDENTITY, 1587, NULL)
+

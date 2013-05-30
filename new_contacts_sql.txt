@@ -1,0 +1,128 @@
+NEW CONTACT US SQL
+
+informationtype to productserviceline
+select * from productserviceline as p where p.id in (select ip.productserviceline_id from informationtype_to_productserviceline as ip where ip.informationtype_id = 2)
+
+informationtype to productservicetype
+select * from productservicetype as p where p.id in (select ip.productservicetype_id from informationtype_to_productservicetype as ip where ip.informationtype_id = 2)
+
+productservicetype to productservicename
+select * from productservicename as p where p.id in (select ip.productservicename_id from productservicetype_to_productservicename as ip where ip.productservicetype_id = 2)
+
+productserviceline to productservicename
+select * from productservicename as p where p.id in (select ip.productservicename_id from productserviceline_to_productservicename as ip where ip.productserviceline_id = 2)
+
+productservicename to locations
+select * from locations as l where l.id in (select ip.locations_id from productservicename_to_locations as ip where ip.productservicename_id = 2)
+
+
+
+
+locations to phone
+select p.number, l.item_order from phone as p INNER JOIN locations_to_phone as l ON l.locations_id=101 and l.phone_id=p.id order by l.item_order
+
+SELECT 
+	phone.number, locations_to_phone.item_order 
+FROM 
+	phone 
+INNER JOIN 
+	locations_to_phone 
+ON 
+	locations_to_phone.locations_id=101 and locations_to_phone.phone_id=phone.id 
+ORDER BY 
+	locations_to_phone.item_order
+
+
+locations to address
+select p.address, l.item_order from address as p INNER JOIN locations_to_address as l ON l.locations_id=101 and l.address_id=p.id order by l.item_order
+
+locations to website
+select p.url, l.item_order from website as p INNER JOIN locations_to_website as l ON l.locations_id=101 and l.website_id=p.id order by l.item_order
+
+locations to fax	
+select p.number, l.item_order from fax as p INNER JOIN locations_to_fax as l ON l.locations_id=101 and l.fax_id=p.id order by l.item_order
+
+locations to email
+select p.email, l.item_order from email as p INNER JOIN locations_to_email as l ON l.locations_id=101 and l.email_id=p.id order by l.item_order
+
+///// DO THESE AS STORED PROCEDURES
+locations to dropdownname
+select p.name from dropdownname as p INNER JOIN locations_to_dropdownname as l ON l.locations_id=13 and l.dropdownname_id=p.id
+
+locations to contact
+select p.name from contact as p INNER JOIN locations_to_contact as l ON l.locations_id=101 and l.contact_id=p.id
+
+
+
+select fax.number, locations_to_fax.item_order as fax_item_order from fax INNER JOIN locations_to_fax ON locations_to_fax.locations_id=101 and locations_to_fax.fax_id=fax.id order by locations_to_fax.item_order
+union
+select email.email, locations_to_email.item_order as email_item_order from email INNER JOIN locations_to_email ON locations_to_email.locations_id=101 and locations_to_email.email_id=email.id order by locations_to_email.item_order
+
+
+
+SELECT 
+	fax.number, locations_to_fax.item_order as fax_item_order, email.email, locations_to_email.item_order as email_item_order 
+FROM 
+	fax, email INNER JOIN locations_to_fax, locations_to_email ON locations_to_fax.locations_id=101 and locations_to_fax.fax_id=fax.id and locations_to_email.locations_id=101 and locations_to_email.email_id=email.id
+
+select locations_to_fax.fax_id, locations_to_email.email_id from locations_to_fax FULL JOIN locations_to_email on locations_to_fax.locations_id=101 and locations_to_email.locations_id = 101
+
+
+select locations_to_fax.fax_id from locations_to_fax where locations_to_fax.locations_id = 101
+select locations_to_email.email_id from locations_to_email where locations_to_email.locations_id = 101
+
+
+SELECT 
+	--locations_to_fax.locations_id as fax_locations_id, 
+	locations_to_fax.fax_id, 
+	locations_to_fax.item_order as fax_item_order, 
+	--locations_to_email.locations_id as email_locations_id, 
+	locations_to_email.email_id, 
+	locations_to_email.item_order as email_item_order,
+	--locations_to_website.locations_id as website_locations_id, 
+	locations_to_website.website_id, 
+	locations_to_website.item_order as website_item_order	
+FROM 
+	locations_to_fax 
+JOIN
+	locations_to_email 
+ON
+	locations_to_fax.locations_id = locations_to_email.locations_id
+JOIN
+	locations_to_website
+ON
+	locations_to_fax.locations_id = locations_to_website.locations_id
+WHERE
+	locations_to_fax.locations_id = 101
+
+
+
+
+
+WHERE 
+	locations_to_email.locations_id = 101 and locations_to_fax.locations_id = 101
+
+
+SELECT 
+	fax.number, locations_to_fax.item_order as fax_item_order, email.email, locations_to_email.item_order as email_item_order 
+FROM 
+	fax, email
+		JOIN locations_to_fax ON locations_to_fax.locations_id=101 and locations_to_fax.fax_id=fax.id 
+		JOIN locations_to_email ON locations_to_email.locations_id=101 and locations_to_email.email_id=email.id
+	
+	
+SELECT locations_to_fax.fax_id FROM locations_to_fax WHERE locations_to_fax.locations_id=43 GROUP BY locations_to_fax.locations_id 
+	
+
+	
+SELECT
+    *
+FROM
+    TABLE_3
+    LEFT JOIN
+    (
+    SELECT ID_1, name_1, surname_1, FROM T_ONE
+    UNION
+    SELECT ID_2, name_2, surname_2 FROM TABLE_2
+    ) foo  ON TABLE_3.ID_3 = foo.ID_1
+

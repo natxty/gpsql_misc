@@ -1,0 +1,424 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="imagetoolbar" content="no" />
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="../css/screen.css" />
+	<!--[if lt IE 7]><style type="text/css">.png { behavior: url(../iepngfix.htc) }</style><![endif]-->
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript" src="../js/utils.js"></script>
+	<title>Gen-Probe, Gen Probe, GenProbe, GPRO, Nucleic Acid Test (NAT), (NATs), Blood Screening,  Testing, Rapid Disease Detection, Blood Diseases, Screen Donated Blood</title>
+	<meta name="description" content="Gen-Probe is a Global Leader in the Development, Manufacture and Marketing of Rapid, Accurate and Cost-Effective Nucleic Acid Tests (NATs) which Rapidly and Accurately Detect Diseases.">
+	<meta name="keywords" content="gen probe, genprobe, nucleic acid test, nat, nats, biotechnology, detect diseases, probe, healthcare conference, blood diseases, detect blood diseases, gen probe international, gen probe incorporated, gen probe inc, san diego, global leader, development, manufacture, marketing, cost-effective, blood testing, diagnose human diseases, screen donated blood, screen donated human blood, rapid, accurate, testing methods, GPRO">
+	
+	<script type="text/javascript">
+	$(document).ready(function(){
+			$(".sres").hide();
+			
+			if(document.drilldown.itype.value >= '1'){
+        		$("#psline").removeAttr('disabled');
+        		$("#psline").val('0');
+        	} else {
+        		$("#psline").attr('disabled','disabled');
+        		$("#pstype").attr('disabled','disabled');
+        		$("#psname").attr('disabled','disabled');
+        		$("#psline").val('0');
+        		$("#pstype").val('0');
+        		$("#psname").val('0');
+        	}
+    		
+    		if(document.drilldown.psline.value >= '1'){
+        		$("#pstype").removeAttr('disabled');
+        		$("#psname").removeAttr('disabled');
+        		$("#pstype").val('0');
+        		$("#psname").val('0');
+        	} else {
+        		$("#pstype").attr('disabled','disabled');
+        		$("#psname").attr('disabled','disabled');
+        		$("#pstype").val('0');
+        		$("#psname").val('0');
+        	}
+        	
+    	$("#itype").change(function() {
+        	var optval = $("#itype").val();
+        	
+        	if(document.drilldown.itype.value >= '1'){
+        		$("#psline").removeAttr('disabled');
+        		$("#psline").val('0');
+        	} else {
+        		$("#psline").attr('disabled','disabled');
+        		$("#pstype").attr('disabled','disabled');
+        		$("#psname").attr('disabled','disabled');
+        		$("#psline").val('0');
+        		$("#pstype").val('0');
+        		$("#psname").val('0');
+        	}
+   		});
+    	
+    	$("#psline").change(function() {
+        	var optval = $("#psline").val();
+        	
+        	if(document.drilldown.psline.value >= '1'){
+        		$("#pstype").removeAttr('disabled');
+        		$("#psname").removeAttr('disabled');
+        		$('#psname option').not('.aptima').hide();
+        		$("#pstype").val('0');
+        		$("#psname").val('0');
+        	} else {
+        		$("#pstype").attr('disabled','disabled');
+        		$("#psname").attr('disabled','disabled');
+        		$("#pstype").val('0');
+        		$("#psname").val('0');
+        	}
+   		});
+   		
+   		$("#pstype").change(function() {
+   			var optval = $("#pstype").val();
+   			$(".sres").hide();
+   			$("#sres"+optval).show();
+   			$("#psline").val('0');
+   			$("#psname").val('0');
+   			
+   			loadMap('addr'+optval);
+   			
+   		});
+   		
+   		$("#psname").change(function() {
+   			var optval = $("#psname").val();
+   			$(".sres").hide();
+   			$("#sres"+optval).show();
+   			$("#pstype").val('0');
+   			
+   			loadMap('addr'+optval);
+   			
+   		});
+   		
+   		var loc = window.location.search.toString();
+		if(loc == "?success=true"){
+			$("#schedule").html('<img src="im/success.gif" alt=""/>');
+		}
+		
+	});
+	</script>
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=true&amp;key=ABQIAAAAod3zLlc94ia7JuVPDmFlCxQdgH5upnBw8tZe-RK8SHzkQLH35hTQqH_JV7UVzvYDJBrGbqSe90J5Ig" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function loadMap(addrid) {
+
+	setTimeout( function() { 
+	var map = new GMap2(document.getElementById("maparea"));
+	
+	var geocoder = new GClientGeocoder();
+	
+	if(addrid == 'addr1') { var address = '10210+Genetic+Center+Drive,+San+Diego,+CA+92121'; }
+	else if(addrid == 'addr2'){ var address = '1W229+N1870+Westwood+Drive+Waukesha,+WI+53186'; }
+	else if(addrid == 'addr3'){ var address = '12+Blacklands+Way,+Abingdon+Business+Park+Abingdon,+Oxfordshire,+OX14+1DY,+UK'; }
+	else if(addrid == 'addr4'){ var address = '50+West+Avenue+Stamford,+CT+06902'; }
+	else if(addrid == 'addr5'){ var address = '1+Boulevard+Alexandre+Fleming+25000+Besancon,+France'; }
+	else if(addrid == 'addr6'){ var address = 'Crewe+Rd+The+Oaks+Business+Pk,+Manchester+M23+9HZ,+United+Kingdom'; }
+	else if(addrid == 'addr7'){ var address = 'Appleton+Pl+Appleton+Pkwy,+Livingston,+West+Lothian+EH54+7EZ,+UK'; }
+	
+	
+	geocoder.getLatLng(
+    address,
+    function(point) {
+      if (!point) {
+        alert(address + " not found");
+      } else {
+        map.setCenter(point, 15);
+        var marker = new GMarker(point);
+        map.addOverlay(marker);
+      }
+    }
+  );
+    //map.setCenter(new GLatLng(34.4647, -118.4656), 7);
+	map.setMapType(G_NORMAL_MAP);
+	var customUI = map.getDefaultUI();
+	customUI.maptypes.satellite = false;
+	customUI.maptypes.hybrid = false;
+	customUI.maptypes.physical = false;
+	map.setUI(customUI);
+	},1);
+}
+
+//]]>
+</script>
+</head>
+<body class="contact" onunload="GUnload()">
+<div id="wrapper">
+<div id="top">
+	<div id="header">
+		<a id="logo" href="../"><img src="../im/gplogo.gif" alt="Gen-Probe" /></a>
+		<div id="hdrutils">
+			<ul id="hdrlinks" class="caps"><li class="first"><a href="">Home</a></li><li>|</li><li class="act"><a href="../contact-us/">Contact Us</a></li><li>|</li><li class="last"><a href="">Visit Global Site</a></li></ul>
+			<form name="searchform" id="searchform" method="post" action="http://www.picosearch.com/cgi-bin/ts.pl">
+        	<fieldset class="fleft">
+        		<input type="hidden" name="index" id="index" value="205275">
+				<input type="text" name="query" id="query" value="Search Gen-Probe" onFocus="this.value=''"><input type="image" src="../im/btn_search.gif"/>
+			</fieldset>
+			</form>
+		</div>
+		<ul id="nav">
+			<li class="link"><a href="../about/"><img src="../im/nav_about.gif" alt="About Us"/></a></li>
+			<li class="link"><a href="../investors/"><img src="../im/nav_investors.gif" alt="Investors"/></a></li>
+			<li class="link"><a href="../news/"><img src="../im/nav_news.gif" alt="News"/></a></li>
+			<li class="link"><a href="../products-services/"><img src="../im/nav_products_services.gif" alt="Products &amp; Services"/></a></li>
+			<li class="link"><a href="../pipeline/"><img src="../im/nav_pipeline.gif" alt="Pipeline"/></a></li>
+			<li class="link"><a href="../science/"><img src="../im/nav_science.gif" alt="Science"/></a></li>
+			<li class="link"><a href="../careers/"><img src="../im/nav_careers.gif" alt="Careers"/></a></li>
+			<li class="link"><a href="../inserts/"><img src="../im/nav_pkginserts.gif" alt="Package Inserts"/></a></li>
+		</ul>
+	</div>
+<div id="container">
+	<div id="hero"><img src="../im/hero_contact.jpg" alt=""/></div>
+	<div id="content">
+		<div id="page">
+			<ul id="breadcrumbs"><li class="first"><a href="../">Home</a></li><li>&rsaquo;</li><li class=""><a href="../contact-us/">Contact Us</a></li><li>&rsaquo;</li><li class="last act"><a href="../contact-us/">Contact Info Search</a></li></ul>
+			<div class="clear"></div>
+			<div class="left">
+				<ul id="sectnav">
+					<span class="navhdr act"><a><img id="navhdr" class="png roundleft" src="../im/navhdr_contact.png" alt="Contact Us" /></a></span>
+                    <li id="sectnav_1" class="roundtop act roundleft"><a href="">Contact Info Search</a></li>
+					<li id="sectnav_2" class="link roundbtm nobrdr"><a href="corporate.html">Corporate Headquarters</a></li>
+				</ul>
+				<ul class="sectsubnav small">
+					<li><a href="">Product Catalogue</a></li>
+					<li><a href="">Package Inserts</a></li>
+					<li><a href="">Customer Service</a></li>
+				</ul>
+			</div>
+			<div class="right">
+			<div class="rightnarrow">
+				<p class="ttl"><span>Search</span></p>
+				<p>Use the dropdown tools below to find the specific contact info you're looking for. Start with the type of information you need (Customer Service, Technical Support, Sales Reps, etc.) and then narrow your search with the additional tools.</p>
+                <div class="clear"></div>
+           		<div class="contactcont">
+           		<div id="selectors">
+           			<form id="drilldown" name="drilldown">
+           				<label class="caps small light"><strong>Information Type</strong></label>
+           				<select id="itype" name="itype" class="txt"> 
+							<option value="0">Select one</option>
+							<option value="1">Customer Service</option>
+							<option value="2">Technical Support</option>
+							<option value="3">US Sales Reps</option>
+							<option value="4">Distributors</option>
+							<option value="5">Locations</option>
+							<option value="6">Map &amp; Directions</option>
+						</select>
+						<label class="caps small light"><strong>Product Service Line</strong></label>
+           				<select id="psline" name="psline" class="txt" disabled="disabled"> 
+							<option value="0">Select one</option>
+							<option value="1">Accuprobe</option>
+							<option value="1">Amplified MTD</option>
+							<option value="10">Aptima</option>
+							<option value="5">Diaclone</option>
+							<option value="1">DTS</option>
+							<option value="3">Elucigene</option>
+							<option value="1">GASDirect</option>
+							<option value="4">Lifecodes</option>
+							<option value="6">Nucleon</option>
+							<option value="1">Pace</option>
+							<option value="2">Prodesse</option>
+							<option value="1">Tigris</option>
+						</select>
+						<label class="caps small light"><strong>Product Service Name</strong></label>
+           				<select id="psname" name="psname" class="txt" disabled="disabled"> 
+							<option value="0">Select one</option>
+							<option value="1">Accuprobe</option>
+							<option value="3">Alpha-1-antitrypsin</option>
+							<option value="1">Amplified MTD</option>
+							<option value="7">Analytical Chemistry</option>
+							<option value="1" class="aptima">Aptima Combo</option>
+							<option value="1" class="aptima">Aptima HIV</option>
+							<option value="1" class="aptima">Aptima HCV</option>
+							<option value="1" class="aptima">Aptima HPV</option>
+							<option value="1" class="aptima">Aptima CT/GC</option>
+							<option value="3">Ashkenazi Screening</option>
+							<option value="6">Automated Kits</option>
+							<option value="7">Bioanalysis</option>
+							<option value="7">Biopharm Services</option>
+							<option value="1">Blood Screening</option>
+							<option value="7">Clinical Support Services</option>
+							<option value="1">Culture ID</option>
+							<option value="4">Cytokine SNP Typing</option>
+							<option value="5">Diaclone</option>
+							<option value="5">Diaplex</option>
+							<option value="7">Drug Development Services</option>
+							<option value="1">DTS</option>
+							<option value="5">Elisa</option>
+							<option value="5">Elispot</option>
+							<option value="3">Elucigene</option>
+							<option value="3">Elucigene CF</option>
+							<option value="3">Familial Hypercholesterolaemia</option>
+							<option value="1">GASDirect</option>
+							<option value="1">Group B</option>
+							<option value="4">HLA Typing</option>
+							<option value="4">Kir Genotyping</option>
+							<option value="1">Leader</option>
+							<option value="4">Lifecodes</option>
+							<option value="4">Lifecodes LSA</option>
+							<option value="4">Lifecodes LSA-MIC</option>
+							<option value="4">Lifecodes DSA</option>
+							<option value="4">LifeMatch</option>
+							<option value="7">Microbiology Services</option>
+							<option value="7">Molecular Genetic Services</option>
+							<option value="5">Monoclonal Antibodies</option>
+							<option value="6">Nucleon</option>
+							<option value="6">Nucleon BACC 1/2/3</option>
+							<option value="6">Nucleon Hard Tissue</option>
+							<option value="6">Nucleon Phytopure</option>
+							<option value="6">Nucleon Plant</option>
+							<option value="1">Pace</option>
+							<option value="7">Pharmaceutical Services</option>
+							<option value="2">Prodesse</option>
+							<option value="2">Proflu</option>
+							<option value="2">ProGastro</option>
+							<option value="2">Prohmpv</option>
+							<option value="2">Proparaflu</option>
+							<option value="3">QST*R</option>
+							<option value="4">Screen and Identification</option>
+							<option value="3">Thrombosis Risk Panel</option>
+							<option value="1">Tigris</option>	
+						</select>
+						<label class="caps small light"><strong>Product/Service Type</strong></label>
+           				<select id="pstype" name="pstype" class="txt" disabled="disabled"> 
+							<option value="0">Select one</option>
+							<option value="1">Blood Screening</option>
+							<option value="1">Culture Identification</option>
+							<option value="6">DNA Extraction</option>
+							<option value="3">Genetic Disease Testing</option>
+							<option value="5">Immunology Products</option>
+							<option value="1">Instrument Systems</option>
+							<option value="1">Microbial Infectious Diseases</option>
+							<option value="7">Pharmaceutical Services</option>
+							<option value="2">Respiratory Infectious Diseases</option>
+							<option value="1">Sexually Transmitted Diseases</option>
+							<option value="4">Transplant Diagnostics</option>
+							<option value="1">Virals</option>
+						</select>
+						<label class="caps small light"><strong>Location</strong></label>
+           				<select id="locat" name="locat" class="txt" disabled="disabled"> 
+							<option value="0">Select one</option>
+						</select>
+           		</div>
+           		<div id="results">
+           			<p id="sres1" class="sres">
+           				<span class="light small">Customer Service is available for order placement or to answer inquiries regarding the status of an established order. In addition, Customer Service can assist with contractual and/or pricing questions.</span>
+           				<br/><br/>
+           				<span class="large"><strong>Gen-Probe Incorporated</strong></span>
+           				<br/>10210 Genetic Center Drive
+           				<br/>San Diego, CA 92121
+           				<br/>Toll Free: (800) 523-5001 <span class="small">Option 1</span>
+           				<br/><span class="light small">6:00 am - 5:00 pm PT</span>
+           				<br/>Email: <a href="mailto:customerservice@gen-probe.com">customerservice@gen-probe.com</a>
+           				<br/>Fax: (800) 288-3141 or (800) 342-7441
+           			</p>
+           			<p id="sres2" class="sres">
+           				<span class="light small">Customer Service is available for order placement or to answer inquiries regarding the status of an established order. In addition, Customer Service can assist with contractual and/or pricing questions.</span>
+           				<br/><br/>
+           				<span class="large"><strong>Gen-Probe Prodesse, Inc.</strong></span>
+           				<br/>W229 N1870 Westwood Drive
+           				<br/>Waukesha, WI 53186
+           				<br/>(262) 446-0700
+           				<br/>(888) 589-6974
+           				<br/>Fax (262) 446-0600
+           				<br/><br/>
+           				Fax for Product Orders:
+           				<br/>(262) 522-0302
+           				<br/><br/>
+           				Sales: <a href="mailto:sales@prodesse.com">sales@prodesse.com</a>
+           				<br/><br/>
+           				Customer Service: <a href="mailto:custsvc@prodesse.com">custsvc@prodesse.com</a>
+           			</p>
+           			<p id="sres3" class="sres">
+           				<span class="light small">Customer Service is available for order placement or to answer inquiries regarding the status of an established order. In addition, Customer Service can assist with contractual and/or pricing questions.</span>
+           				<br/><br/>
+           				<span class="large"><strong>Gen-Probe Life Sciences Ltd.</strong></span>
+           				<br/>12 Blacklands Way, Abingdon Business Park
+           				<br/>Abingdon, Oxfordshire, OX14 1DY, UK
+           				<br/>Tel: +44 (0)1235 544220
+           				<br/>Fax: +44 (0)1235 544222
+           				<br/>Email: <a href="mailto:elucigene@gen-probe.com">elucigene@gen-probe.com</a>
+           			</p>
+           			<p id="sres4" class="sres">
+           				<span class="light small">Customer Service is available for order placement or to answer inquiries regarding the status of an established order. In addition, Customer Service can assist with contractual and/or pricing questions.</span>
+           				<br/><span class="large"><strong>Gen-Probe Transplant Diagnostics, Inc.</strong></span>
+           				<br/>550 West Avenue
+           				<br/>Stamford, CT 06902
+           				<br/>Tel: (888) 329-0255
+           				<br/>Fax: (203) 328-9599
+           				<br/>Email: <a href="mailto:lifecodes@gen-probe.com">lifecodes@gen-probe.com</a>
+           			</p>
+           			<p id="sres5" class="sres">
+           				<span class="light small">Customer Service is available for order placement or to answer inquiries regarding the status of an established order. In addition, Customer Service can assist with contractual and/or pricing questions.</span>
+           				<br/><br/>
+           				<span class="large"><strong>International Orders</strong></span>
+           				<br/><span class="large"><strong>Gen-Probe Diaclone SAS</strong></span>
+           				<br/>1 Bd A Fleming, BP 1985
+           				<br/>F-25020 Besancon Cedex, France
+           				<br/>Tel: +33 3 81 41 38 38
+           				<br/>Fax: +33 3 81 41 36 36
+           				<br/>Email: <a href="mailto:diaclone@gen-probe.com">diaclone@gen-probe.com</a>
+           				<br/><br/>
+           				<span class="large"><strong>UK Sales &amp; Orders</strong></span>
+           				<br/><span class="large"><strong>Gen-Probe Life Sciences Ltd.</strong></span>
+           				<br/>Heron House, Oaks Business Park, Crewe Road
+           				<br/>Wythenshawe, Manchester M23 9HZ
+           				<br/>UK Sales &amp; Orders Tel: +44 (0)161 946 2222
+           				<br/>UK Sales &amp; Orders Fax: +44 (0)161 946 2224
+           				<br/>Email: <a href="mailto:diacloneUK@gen-probe.com">diacloneUK@gen-probe.com</a>
+           			</p>
+           			<p id="sres6" class="sres">
+           				<span class="light small">Customer Service is available for order placement or to answer inquiries regarding the status of an established order. In addition, Customer Service can assist with contractual and/or pricing questions.</span>
+           				<br/><br/>
+           				<span class="large"><strong>Gen-Probe Life Sciences Ltd.</strong></span>
+           				<br/>Heron House, Oaks Business Park, Crewe Road
+           				<br/>Wythenshawe, Manchester M23 9HZ
+           				<br/>UK Tel: +44 (0)161 946 2200
+           				<br/>Freephone: (800) 731-3016
+           				<br/>UK Fax: +44 (0)161 946 2211
+           				<br/>Email: <a href="mailto:pharmaservices@gen-probe.com">pharmaservices@gen-probe.com</a>
+           			</p>
+           			<p id="sres7" class="sres">
+           				<span class="light small">Customer Service is available for order placement or to answer inquiries regarding the status of an established order. In addition, Customer Service can assist with contractual and/or pricing questions.</span>
+           				<br/><br/>
+           				<span class="large"><strong>Pharmaceutical Services - Livingston</strong></span>
+           				<br/><span class="large"><strong>Gen-Probe Life Sciences, Ltd.</strong></span>
+           				<br/>Appleton Place, Appleton Parkway
+           				<br/>Livingston, West Lothian. EH54 7EZ
+           				<br/>Tel: +44 (0)1506 424270
+           				<br/>Fax: +44 (0)1506 424280
+           				<br/>Email: <a href="mailto:pharmaservices@gen-probe.com">pharmaservices@gen-probe.com</a>
+           				<br/><br/>
+           				<span class="large"><strong>Nucleic Acid Purification - Manchester</strong></span>
+           				<br/><span class="large"><strong>Gen-Probe Life Sciences Ltd.</strong></span>
+           				<br/>Heron House, Oaks Business Park, Crewe Road
+           				<br/>Wythenshawe, Manchester M23 9HZ
+           				<br/>UK Tel: +44 (0)161 946 2200
+           				<br/>Freephone: (800) 731-3016
+           				<br/>UK Fax: +44 (0)161 946 2211
+           				<br/>Email: <a href="mailto:pharmaservices@gen-probe.com">pharmaservices@gen-probe.com</a>
+           			</p>
+           		</div>
+           		<div class="clear hr"></div>
+           		<div id="maparea"></div>
+           		<div class="clear"></div>
+           		</div>
+			</div>
+		                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div id="footer">
+                    <p class="caps"><a href="http://www.gen-probe.com/about/map.aspx">SITE MAP</a><span class="pipe">|</span><a href="http://www.gen-probe.com/about/terms.aspx">TERMS</a><span class="pipe">|</span><a href="http://www.gen-probe.com/about/privacy.aspx">PRIVACY</a><span class="pipe">|</span><a href="http://www.gen-probe.com/about/help.aspx">HELP</a><br/>&copy; 2010 Gen-Probe Incorporated. All rights reserved</p>
+                    <p>Unless otherwise specified, all product names appearing in this Internet site are trademarks owned by or licensed to Gen-Probe, its subsidiaries or affiliates. No use of any Gen-Probe trademark, trade name, or trade dress in this site may be made without the prior written authorization of Gen-Probe, except to identify the product or services of the company.</p>
+                    <p class="caps">Gen-Probe Incorporated, 10210 Genetic Center Drive, San Diego, CA 92121, USA</p>
+                </div>  
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

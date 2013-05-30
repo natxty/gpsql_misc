@@ -1,0 +1,24 @@
+{{repr}}
+	{{if chosen_search_results}}
+		<!-- display chosen result here -->
+		<div class='search_result'>
+			<input type="hidden" name='search_result_id' value='someid'>
+			{{search_result_value}}
+			<div class="remove">(X)</div>
+		</div>
+	{{else}}
+		<input name='myname'>
+	{{/if}}
+	
+	<div class='search'>
+		<label for=>Search
+			<input {{name = somename}}>
+		</label>
+		{{IF results}}
+			<select>
+		{{/IF}}
+		{{if no_matches}}
+			<span>No matches found</span> 
+		{{/If}}
+	</div>
+{{/repr}}

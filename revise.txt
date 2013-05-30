@@ -1,0 +1,2211 @@
+1:
+		[('address3', ''), ('fax1', 'Fax: +800 288-3141 or 800 342-7441 ')]
+
+10:
+		[('address3', ''), ('fax1', 'Fax: + 262 446-0600 ')]
+
+100:
+		[('address1', 'Plesmanlaan 125, 1066 CX '), ('address3', ''), ('website', 'www.sanquin.nl\xf7 ')]
+
+1000:
+		[('email', ' cdcinfo@cdc.gov')]
+
+1002:
+		[('facility', 'bioM\x8erieux')]
+
+1005:
+		[('address1', 'Chihuahua 88, Col. Progreso, 01080, D.F.  Mexico '), ('facility', 'bioM\x8erieux Mexico')]
+
+1006:
+		[('address3', '')]
+
+1008:
+		[('facility', 'bioM\x8erieux')]
+
+101:
+		[('address3', '')]
+
+1011:
+		[('address3', '')]
+
+1012:
+		[('address1', 'Hogeweg 5, Postbus 2104, 5301 LB  Zaltbommel '), ('facility', 'bioM\x8erieux')]
+
+1013:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1016:
+		[('address3', '')]
+
+1017:
+		[('website', 'www.inmunochem.com ')]
+
+1018:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1019:
+		[('website', 'www.inmunochem.com ')]
+
+102:
+		[('address3', '')]
+
+1020:
+		[('address1', '11th Floor, Pearlbank Centre - 146 Valero Street, Salcedo Village, 1227 Makati City - Philippines '), ('facility', 'bioM\x8erieux')]
+
+1021:
+		[('address1', 'ul. Zeromskiego 17, 01-882   Warszawa '), ('facility', 'bioM\x8erieux')]
+
+1022:
+		[('address1', 'Av. 25 de Abril de 1974, n\xa1 23-3\xa1'), ('facility', 'bioM\x8erieux')]
+
+1024:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+1026:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1027:
+		[('facility', 'bioM\x8erieux')]
+
+1029:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+103:
+		[('address2', '518049 ShenZhen, PR China '), ('address3', '')]
+
+1030:
+		[('facility', 'bioM\x8erieux')]
+
+1031:
+		[('facility', 'bioM\x8erieux')]
+
+1032:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1034:
+		[('facility', 'bioM\x8erieux')]
+
+1036:
+		[('address1', 'Avenue blanc 53 - Case postale 2150, 1211 Gen\x8fve 2'), ('facility', 'bioM\x8erieux')]
+
+1037:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+104:
+		[('address3', '')]
+
+1041:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1042:
+		[('facility', 'bioM\x8erieux')]
+
+1045:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1049:
+		[('facility', 'bioM\x8erieux')]
+
+105:
+		[('address1', 'Jizni 393, 252 44 Ps\x87ry'), ('address3', '')]
+
+1052:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1053:
+		[('facility', 'bioM\x8erieux')]
+
+1054:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+106:
+		[('address3', ''), ('facility', 'BIOTECHLAB-S, Medical Co '), ('fax1', 'Fax: +380 342525710\xf7')]
+
+1062:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1065:
+		[('address3', '')]
+
+107:
+		[('address3', '')]
+
+1075:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1076:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+1077:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+108:
+		[('address3', ''), ('facility', 'TRINITY MEDICAL ')]
+
+1084:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+1088:
+		[('facility', 'bioM\x8erieux Australia')]
+
+109:
+		[('address1', 'Proppellerv\x8agen 4A, 18362 T\x8aby, Sweden'), ('facility', 'NORDIC BIOSITE ')]
+
+1095:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1096:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+1098:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+1099:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+11:
+		[('address3', ''), ('facility', 'Gen-Probe Transplant Diagnostics Inc.')]
+
+110:
+		[('address1', 'Etel\x8aesplanadi 24, 00130 Helsinki, Finland')]
+
+1107:
+		[('address3', '')]
+
+111:
+		[('address3', '')]
+
+1110:
+		[('address3', '')]
+
+112:
+		[('address2', '35394 Gie\xa7en, Germany'), ('address3', ''), ('facility', 'MILENIA BIOTEC GmbH ')]
+
+1123:
+		[('address3', '')]
+
+1129:
+		[('address3', '')]
+
+113:
+		[('address3', ''), ('facility', 'H\x85LZEL DIAGNOSTIKA Handels GmbH')]
+
+1131:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1135:
+		[('address3', '')]
+
+1136:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1137:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+114:
+		[('address3', ''), ('facility', 'TRINOVA BIOCHEM GmbH ')]
+
+1141:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+1143:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1147:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+115:
+		[('address3', ''), ('facility', 'EXELIXIS Diagnostics ')]
+
+1150:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1157:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+116:
+		[('address3', '')]
+
+1160:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1163:
+		[('facility', 'bioM\x8erieux Australia')]
+
+117:
+		[('address3', ''), ('facility', 'TIN HANG TECHNOLOGY LIMITED ')]
+
+1170:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1172:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+118:
+		[('address1', 'Proppellerv\x8agen 4A'), ('address2', '18362 T\x8aby, Sweden'), ('address3', ''), ('facility', 'NORDIC BIOSITE ')]
+
+1180:
+		[('address3', '')]
+
+119:
+		[('address3', ''), ('facility', 'WELDON BIOTECH ')]
+
+1190:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1191:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+1192:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+12:
+		[('address3', '')]
+
+120:
+		[('address1', 'Unit 2, N\xa193, Khajeh Abdollah St'), ('address3', '')]
+
+1200:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+1204:
+		[('facility', 'bioM\x8erieux Australia')]
+
+121:
+		[('address3', '')]
+
+1211:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1212:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+1214:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+1215:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+122:
+		[('address3', '')]
+
+1223:
+		[('address3', '')]
+
+1226:
+		[('address3', '')]
+
+123:
+		[('address1', 'Corso Svizzera n? 185, '), ('address3', '')]
+
+1239:
+		[('address3', '')]
+
+1245:
+		[('address3', '')]
+
+1247:
+		[('facility', 'bioM\x8erieux Australia')]
+
+125:
+		[('address3', '')]
+
+1251:
+		[('address3', '')]
+
+1252:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1253:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1257:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+1259:
+		[('facility', 'bioM\x8erieux Australia')]
+
+126:
+		[('address3', ''), ('facility', 'DAEMYUNG SCIENCE CO. LTD ')]
+
+1263:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+1266:
+		[('facility', 'bioM\x8erieux Australia')]
+
+127:
+		[('address1', 'Saehan Bldg, 16-7\xf7Yangjae Dong'), ('address2', 'Seocho Gu,\xf7137-888 Seoul, Korea'), ('address3', ''), ('phone1', '+822 2057 5811~8 ')]
+
+1273:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+1276:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1279:
+		[('facility', 'bioM\x8erieux Australia')]
+
+128:
+		[('address1', 'Proppellerv\x8agen 4A'), ('address2', '18362 T\x8aby, Sweden'), ('address3', ''), ('facility', 'NORDIC BIOSITE ')]
+
+1286:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1288:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+129:
+		[('address3', '')]
+
+1293:
+		[('facility', 'bioM\x8erieux')]
+
+1295:
+		[('facility', 'bioM\x8erieux Argentina')]
+
+1297:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1298:
+		[('address1', 'Eduard Kittenberger Gasse 97, Top 3, A-1230  Wien '), ('facility', 'bioM\x8erieux')]
+
+130:
+		[('address3', ''), ('website', 'www.sanquin.nl\xf7 ')]
+
+1300:
+		[('address3', '')]
+
+1302:
+		[('address1', 'Media Square, 18-19 Place des Carabiniers, 1030  Bruxelles '), ('facility', 'bioM\x8erieux')]
+
+1304:
+		[('address1', 'Rua Ministro Jos\x8e Gallotti'), ('address2', '247 \xd0 CEP 04580-050 Brooklin \xd0 S\x8bo Paulo \xd0 SP'), ('address3', '')]
+
+131:
+		[('address1', 'P.b.1681 Vika (Arbins gate 2) '), ('address3', '')]
+
+1312:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+1313:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+1314:
+		[('facility', 'bioM\x8erieux')]
+
+1315:
+		[('facility', 'bioM\x8erieux')]
+
+1316:
+		[('address1', 'Vassinger\x9advej 91C, 3540 Lynge, Denmark ')]
+
+1319:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+132:
+		[('address3', ''), ('facility', 'IMMUNIQ ')]
+
+1320:
+		[('address1', '8 Osman Abdel Hafeez Street \xd0 2nd District'), ('address3', ''), ('email', 'Info@nouh.com.eg ')]
+
+1323:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1325:
+		[('facility', 'bioM\x8erieux')]
+
+1327:
+		[('address1', 'Postfach 1204, 72602 N\x9frtingen'), ('facility', 'bioM\x8erieux')]
+
+1328:
+		[('facility', 'bioM\x8erieux')]
+
+133:
+		[('address3', '')]
+
+1330:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1331:
+		[('email', ' cdcinfo@cdc.gov')]
+
+1333:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+1335:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+1336:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+1337:
+		[('address1', 'Enseval Building - Kawasan Industri Pulo Gadung - JI. Pulo - Lentut No. 10, 13920  Jakarta Timur '), ('facility', 'bioM\x8erieux')]
+
+1338:
+		[('facility', 'bioM\x8erieux')]
+
+134:
+		[('address3', '')]
+
+1340:
+		[('facility', 'bioM\x8erieux')]
+
+1343:
+		[('facility', 'bioM\x8erieux')]
+
+1346:
+		[('address3', '')]
+
+1348:
+		[('address3', '')]
+
+135:
+		[('address3', ''), ('facility', 'BIONOVA CIENTIFICA '), ('website', 'www.bionova.es ')]
+
+1350:
+		[('address3', '')]
+
+1352:
+		[('facility', 'bioM\x8erieux')]
+
+1353:
+		[('facility', 'bioM\x8erieux')]
+
+1355:
+		[('facility', 'bioM\x8erieux')]
+
+1359:
+		[('email', ' cdcinfo@cdc.gov')]
+
+136:
+		[('address1', 'Proppellerv\x8agen 4A'), ('address2', '18362 T\x8aby, Sweden'), ('address3', ''), ('facility', 'NORDIC BIOSITE ')]
+
+1361:
+		[('facility', 'bioM\x8erieux')]
+
+1364:
+		[('address1', 'Chihuahua 88, Col. Progreso, 01080, D.F.  Mexico '), ('facility', 'bioM\x8erieux Mexico')]
+
+1365:
+		[('address3', '')]
+
+1367:
+		[('facility', 'bioM\x8erieux')]
+
+137:
+		[('address1', 'Sch\x9ftzenstrasse 17, Postfach'), ('address3', ''), ('facility', 'BIOTEST Schweiz ')]
+
+1370:
+		[('address3', '')]
+
+1371:
+		[('address1', 'Hogeweg 5, Postbus 2104, 5301 LB  Zaltbommel '), ('facility', 'bioM\x8erieux')]
+
+1372:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1375:
+		[('address3', '')]
+
+1376:
+		[('website', 'www.inmunochem.com ')]
+
+1377:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1378:
+		[('website', 'www.inmunochem.com ')]
+
+1379:
+		[('address1', '11th Floor, Pearlbank Centre - 146 Valero Street, Salcedo Village, 1227 Makati City - Philippines '), ('facility', 'bioM\x8erieux')]
+
+138:
+		[('address3', ''), ('facility', 'SYRIAN AGENCY ')]
+
+1380:
+		[('address1', 'ul. Zeromskiego 17, 01-882   Warszawa '), ('facility', 'bioM\x8erieux')]
+
+1381:
+		[('address1', 'Av. 25 de Abril de 1974, n\xa1 23-3\xa1'), ('facility', 'bioM\x8erieux')]
+
+1383:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+1385:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1386:
+		[('facility', 'bioM\x8erieux')]
+
+1388:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+1389:
+		[('facility', 'bioM\x8erieux')]
+
+139:
+		[('address2', '10353 Taipei, Taiwan '), ('address3', '')]
+
+1390:
+		[('facility', 'bioM\x8erieux')]
+
+1391:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1393:
+		[('facility', 'bioM\x8erieux')]
+
+1395:
+		[('address1', 'Avenue blanc 53 - Case postale 2150, 1211 Gen\x8fve 2'), ('facility', 'bioM\x8erieux')]
+
+1396:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+14:
+		[('address3', ''), ('website', 'www.lucronbioproducts.com ')]
+
+140:
+		[('address2', '34662 \x86sk\x9fdar, Turkey'), ('address3', '')]
+
+1400:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1401:
+		[('facility', 'bioM\x8erieux')]
+
+1404:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1408:
+		[('facility', 'bioM\x8erieux')]
+
+141:
+		[('address2', ' Canton, MA 02021, USA'), ('address3', '')]
+
+1411:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1412:
+		[('facility', 'bioM\x8erieux')]
+
+1413:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+142:
+		[('address3', '')]
+
+1420:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1423:
+		[('address3', '')]
+
+143:
+		[('address3', ''), ('facility', 'BIOTECHLAB-S, Medical Co '), ('fax1', 'Fax: +380 342525710\xf7')]
+
+1433:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1434:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+1435:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+1442:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+1446:
+		[('facility', 'bioM\x8erieux Australia')]
+
+145:
+		[('address3', ''), ('email', 'nucleon@gen-probe.com ')]
+
+1453:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1454:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+1456:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+1457:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+146:
+		[('address3', '')]
+
+1465:
+		[('address3', '')]
+
+1468:
+		[('address3', '')]
+
+147:
+		[('address3', '')]
+
+148:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', ''), ('phone1', '+49 0 6173 6079 30 ')]
+
+1481:
+		[('address3', '')]
+
+1487:
+		[('address3', '')]
+
+1489:
+		[('facility', 'bioM\x8erieux Australia')]
+
+149:
+		[('address3', '')]
+
+1493:
+		[('address3', '')]
+
+1494:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1495:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+1499:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+15:
+		[('address3', '')]
+
+150:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', ''), ('phone1', '+49 0 6173 6079 30 ')]
+
+1501:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1505:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+1508:
+		[('facility', 'bioM\x8erieux Australia')]
+
+151:
+		[('address2', '542 50, Thessaloniki, Greece '), ('address3', '')]
+
+1515:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+1518:
+		[('facility', 'bioM\x8erieux Australia')]
+
+152:
+		[('address1', 'Room 1201, Fo Tan Industrial Centre, 26 Au Pui Wan Street '), ('address3', '')]
+
+1521:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1528:
+		[('facility', 'bioM\x8erieux Australia')]
+
+153:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e  62'), ('address3', ''), ('phone1', '+49 0 6173 6079 30 ')]
+
+1530:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+1534:
+		[('address1', 'Proppellerv\x8agen 4A'), ('address2', '18362 T\x8aby, Sweden'), ('address3', '')]
+
+1535:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62, D-61476 Kronberg/Taunus'), ('phone1', '+49 0 6173 6079 30 '), ('fax1', 'Fax: +49 0 6173 6079 50 ')]
+
+1536:
+		[('facility', 'bioM\x8erieux')]
+
+154:
+		[('address3', '')]
+
+1540:
+		[('facility', 'bioM\x8erieux')]
+
+1545:
+		[('fax1', 'Fax: +27-11-467-7505 ')]
+
+155:
+		[('address3', ''), ('email', 'customerservice@bouty.it ')]
+
+1552:
+		[('facility', 'bioM\x8erieux')]
+
+1553:
+		[('address1', 'Media Square, 18-19 Place des Carabiniers, 1030  Bruxelles '), ('facility', 'bioM\x8erieux')]
+
+1554:
+		[('facility', 'bioM\x8erieux Australia')]
+
+1555:
+		[('address1', '36, Rue Ahmed Ouaked, Dely Ibrahim, 16302  Alger '), ('facility', 'bioM\x8erieux')]
+
+1556:
+		[('facility', 'bioM\x8erieux')]
+
+1557:
+		[('facility', 'bioM\x8erieux')]
+
+156:
+		[('address2', ' Tel Aviv 61392, Israel'), ('address3', '')]
+
+1561:
+		[('address2', 'F-25020 Besancon '), ('address3', 'Cedex, France '), ('facility', 'Gen-Probe Diaclone SAS '), ('fax1', 'Fax: +33 3 81 41 36 36 ')]
+
+1562:
+		[('address1', 'Cherwell Innovation Centre, 77 Heyford Park, '), ('address3', '')]
+
+1563:
+		[('address1', 'Appleton Place, Appleton Parkway '), ('address2', 'Livingston, West Lothian ')]
+
+1564:
+		[('address3', ''), ('email', 'pharmaservices@gen-probe.com ')]
+
+1565:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62, D-61476 Kronberg/Taunus'), ('phone1', '+49 0 6173 6079 30 '), ('fax1', 'Fax: +49 0 6173 6079 50 ')]
+
+1568:
+		[('address1', 'Tibbi Malzeme San. Tic. Ltd. Sti. '), ('address3', 'Tem Yanyol, 34779 Atasehir / Umraniye , Istanbul, Turkey ')]
+
+1569:
+		[('address3', ''), ('fax1', 'Fax: +800 288-3141 or 800 342-7441 ')]
+
+157:
+		[('address3', '')]
+
+1571:
+		[('address3', '')]
+
+1572:
+		[('address3', ''), ('fax1', 'Fax: + 262 446-0600 ')]
+
+1573:
+		[('address3', '')]
+
+1575:
+		[('address3', ''), ('phone1', '+44 0 161 946 2200 ')]
+
+1576:
+		[('address3', ''), ('phone1', ' +33 3 81 41 38 38')]
+
+1578:
+		[('address3', ''), ('fax1', 'Fax: + 262 446-0600 ')]
+
+1579:
+		[('address1', 'Chiltern House, 5, Chiltern Close,  Llanishen, Cardiff, South Glamorgan CF14 5DL ')]
+
+158:
+		[('address3', '')]
+
+1580:
+		[('address1', 'Heuvelstraat 60, B-2560 Nijlen. Belgium '), ('address2', 'Christine Heylen '), ('address3', ''), ('facility', 'Gen-Probe Belgium BVBA '), ('phone1', '+32 3 3854791 '), ('fax1', 'Fax: +32 3 3854792 ')]
+
+1581:
+		[('address1', 'Heuvelstraat 60, B-2560 Nijlen. Belgium '), ('address2', 'Christine Heylen '), ('address3', ''), ('facility', 'Gen-Probe Belgium BVBA '), ('phone1', '+32 3 3854791 '), ('fax1', 'Fax: +32 3 3854792 ')]
+
+1582:
+		[('address2', 'Bogot\x87 D. C.'), ('address3', ''), ('phone1', '+57 (1) 258 9640 '), ('email', 'salesmanager@biosciencessas.com ')]
+
+1583:
+		[('address3', '')]
+
+1584:
+		[('address3', '')]
+
+1585:
+		[('address3', '')]
+
+1586:
+		[('address3', '')]
+
+1587:
+		[('address3', '')]
+
+1588:
+		[('address3', '')]
+
+1589:
+		[('facility', 'Gen-Probe Wiesbaden '), ('email', 'customerservice@gen-probe.eu ')]
+
+159:
+		[('address3', '')]
+
+1590:
+		[('facility', 'Gen-Probe Wiesbaden '), ('email', 'technicalsupport@gen-probe.eu ')]
+
+1591:
+		[('address3', ''), ('phone1', ' +44 (0) 1506 424270')]
+
+1594:
+		[('address1', 'Rua Columbus, 282 - Vila Leopoldina - CEP:05304-010 - S\x8bo Paulo ')]
+
+1595:
+		[('facility', 'MOLGEN BIYOTEKNOLOJI LAB. MALZ. SAN VE T\x80\xa1C. LTD.\x81?T\x80\xa1')]
+
+16:
+		[('address3', '')]
+
+160:
+		[('address3', '')]
+
+161:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', ''), ('phone1', '+49 0 6173 6079 30 ')]
+
+162:
+		[('address3', '')]
+
+163:
+		[('address3', '')]
+
+164:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', ''), ('phone1', '+49 0 6173 6079 30 ')]
+
+165:
+		[('address1', '7.Cad, 73/A , 06610-Birlik Mahallesi. '), ('address2', 'Cankaya-Ankara, Turkey '), ('address3', ''), ('email', 'burcu.erkurt@atq.com.tr ')]
+
+167:
+		[('address3', '')]
+
+168:
+		[('facility', 'bioM\x8erieux')]
+
+169:
+		[('address2', 'Dely Ibrahim, 16302  Alger '), ('address3', ''), ('facility', 'bioM\x8erieux')]
+
+17:
+		[('address3', ''), ('fax1', 'Fax: +1 613 271-1148 ')]
+
+170:
+		[('facility', 'bioM\x8erieux')]
+
+171:
+		[('address3', '')]
+
+172:
+		[('facility', 'bioM\x8erieux Argentina')]
+
+173:
+		[('facility', 'bioM\x8erieux Argentina')]
+
+174:
+		[('address3', '')]
+
+175:
+		[('facility', 'bioM\x8erieux Australia')]
+
+176:
+		[('address2', 'A-1230  Wien '), ('address3', ''), ('facility', 'bioM\x8erieux')]
+
+177:
+		[('address3', '')]
+
+178:
+		[('address3', '')]
+
+179:
+		[('address3', '')]
+
+18:
+		[('address3', '')]
+
+180:
+		[('address2', '1030  Bruxelles '), ('address3', ''), ('facility', 'bioM\x8erieux')]
+
+181:
+		[('address3', '')]
+
+182:
+		[('address1', 'Rua Ministro Jos\x8e Gallotti'), ('address2', '247 \xd0 CEP 04580-050 Brooklin \xd0 S\x8bo Paulo \xd0 SP'), ('address3', '')]
+
+183:
+		[('address3', '')]
+
+184:
+		[('address3', '')]
+
+185:
+		[('address3', '')]
+
+186:
+		[('address3', '')]
+
+187:
+		[('address3', '')]
+
+188:
+		[('address3', '')]
+
+189:
+		[('address3', '')]
+
+19:
+		[('address3', '')]
+
+190:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong '), ('address3', ''), ('facility', 'bioM\x8erieux China')]
+
+191:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+192:
+		[('facility', 'bioM\x8erieux')]
+
+193:
+		[('facility', 'bioM\x8erieux')]
+
+194:
+		[('address1', 'Vassinger\x9advej 91C, 3540 Lynge, Denmark ')]
+
+197:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+198:
+		[('address1', '8 Osman Abdel Hafeez Street \xd0 2nd District'), ('address3', ''), ('email', 'Info@nouh.com.eg ')]
+
+2:
+		[('address3', '')]
+
+20:
+		[('address1', '\xafsterbrogade 95, DK-2100 Copenhagen'), ('address3', '')]
+
+201:
+		[('facility', 'bioM\x8erieux Australia')]
+
+203:
+		[('facility', 'bioM\x8erieux')]
+
+205:
+		[('address1', 'Postfach 1204, 72602 N\x9frtingen'), ('facility', 'bioM\x8erieux')]
+
+206:
+		[('facility', 'bioM\x8erieux')]
+
+208:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+209:
+		[('email', ' cdcinfo@cdc.gov')]
+
+21:
+		[('address1', 'Kaivokatu 16, 13100 H\x8ammeenlinna'), ('address3', '')]
+
+211:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+213:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+214:
+		[('address1', 'Transasia Bio-Medicals Ltd., Transasia House, 8 Chandivali Studio Road. '), ('address3', '')]
+
+215:
+		[('address1', 'Enseval Building - Kawasan Industri Pulo Gadung - JI. Pulo - Lentut No. 10, 13920  Jakarta Timur '), ('facility', 'bioM\x8erieux')]
+
+216:
+		[('facility', 'bioM\x8erieux')]
+
+218:
+		[('facility', 'bioM\x8erieux')]
+
+22:
+		[('address3', '')]
+
+221:
+		[('facility', 'bioM\x8erieux')]
+
+224:
+		[('address3', '')]
+
+226:
+		[('address3', '')]
+
+228:
+		[('address3', '')]
+
+23:
+		[('address3', '')]
+
+230:
+		[('facility', 'bioM\x8erieux')]
+
+232:
+		[('facility', 'bioM\x8erieux')]
+
+235:
+		[('email', ' cdcinfo@cdc.gov')]
+
+237:
+		[('facility', 'bioM\x8erieux')]
+
+240:
+		[('address1', 'Chihuahua 88, Col. Progreso, 01080, D.F.  Mexico '), ('facility', 'bioM\x8erieux Mexico')]
+
+241:
+		[('address3', '')]
+
+243:
+		[('facility', 'bioM\x8erieux')]
+
+245:
+		[('address3', '')]
+
+246:
+		[('address1', 'Hogeweg 5, Postbus 2104, 5301 LB  Zaltbommel '), ('facility', 'bioM\x8erieux')]
+
+247:
+		[('facility', 'bioM\x8erieux Australia')]
+
+25:
+		[('address1', '8th Floor, The Chambers, Opp. New Gurudwara, Sarkhej - Gandhinagar Highway, Ahmedabad \xd0 380 054'), ('address3', '')]
+
+250:
+		[('address3', '')]
+
+251:
+		[('website', 'www.inmunochem.com ')]
+
+252:
+		[('facility', 'bioM\x8erieux Australia')]
+
+254:
+		[('address1', '11th Floor, Pearlbank Centre - 146 Valero Street, Salcedo Village, 1227 Makati City - Philippines '), ('facility', 'bioM\x8erieux')]
+
+255:
+		[('address1', 'ul. Zeromskiego 17, 01-882   Warszawa '), ('facility', 'bioM\x8erieux')]
+
+256:
+		[('address1', 'Av. 25 de Abril de 1974, n\xa1 23-3\xa1'), ('facility', 'bioM\x8erieux')]
+
+258:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+26:
+		[('fax1', 'Fax: +353 1 822 4100 ')]
+
+260:
+		[('facility', 'bioM\x8erieux Australia')]
+
+261:
+		[('facility', 'bioM\x8erieux')]
+
+263:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+264:
+		[('facility', 'bioM\x8erieux')]
+
+265:
+		[('facility', 'bioM\x8erieux Australia')]
+
+267:
+		[('facility', 'bioM\x8erieux')]
+
+269:
+		[('address1', 'Avenue blanc 53 - Case postale 2150, 1211 Gen\x8fve 2'), ('facility', 'bioM\x8erieux')]
+
+27:
+		[('address3', '')]
+
+270:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+274:
+		[('facility', 'bioM\x8erieux Australia')]
+
+275:
+		[('facility', 'bioM\x8erieux')]
+
+278:
+		[('facility', 'bioM\x8erieux Australia')]
+
+28:
+		[('address3', '')]
+
+282:
+		[('facility', 'bioM\x8erieux')]
+
+285:
+		[('facility', 'bioM\x8erieux Australia')]
+
+286:
+		[('facility', 'bioM\x8erieux')]
+
+287:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+293:
+		[('facility', 'bioM\x8erieux Australia')]
+
+296:
+		[('address3', '')]
+
+3:
+		[('address3', ''), ('phone1', '+44 0 161 946 2200 ')]
+
+30:
+		[('address1', 'Mulabus Commercial Center, 4th Floor, Al-Madina Al-Munawara Street, Telaa Al-Ali, P.O. Box 1707, '), ('address3', '')]
+
+306:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+307:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+308:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+31:
+		[('address3', '')]
+
+315:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+319:
+		[('facility', 'bioM\x8erieux Australia')]
+
+326:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+329:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+330:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+338:
+		[('address3', '')]
+
+34:
+		[('website', 'www.lucronbioproducts.com ')]
+
+341:
+		[('address3', '')]
+
+35:
+		[('address2', ' 47610 Subang Jaya, Selangor, Malaysia'), ('address3', '')]
+
+352:
+		[('address3', '')]
+
+356:
+		[('address3', '')]
+
+358:
+		[('facility', 'bioM\x8erieux Australia')]
+
+36:
+		[('facility', 'Scientech Ltd '), ('phone1', '+356 9945 5980 '), ('email', 'scientech@waldonet.net.mt ')]
+
+362:
+		[('address3', '')]
+
+363:
+		[('facility', 'bioM\x8erieux Australia')]
+
+364:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+368:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+37:
+		[('address2', 'M\x8exico D.F. 03100'), ('address3', '')]
+
+370:
+		[('facility', 'bioM\x8erieux Australia')]
+
+374:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+375:
+		[('facility', 'bioM\x8erieux Australia')]
+
+38:
+		[('website', 'www.lucronbioproducts.com ')]
+
+383:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+385:
+		[('facility', 'bioM\x8erieux Australia')]
+
+388:
+		[('facility', 'bioM\x8erieux Australia')]
+
+39:
+		[('email', 'mail@montebello.no ')]
+
+395:
+		[('facility', 'bioM\x8erieux Australia')]
+
+397:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+4:
+		[('address3', '')]
+
+40:
+		[('address3', ''), ('fax1', 'Fax: +353 1 822 4100 '), ('website', 'www.medical-supply.ie ')]
+
+403:
+		[('facility', 'bioM\x8erieux Australia')]
+
+406:
+		[('address3', '')]
+
+41:
+		[('address3', '')]
+
+416:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+417:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+418:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+42:
+		[('address1', 'Unit 1206, One Magnificent Mile - CITRA Building, San Miguel Avenue, Ortigas Center, Pasig City. '), ('address3', '')]
+
+425:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+429:
+		[('facility', 'bioM\x8erieux Australia')]
+
+435:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+436:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+438:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+439:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+44:
+		[('address1', 'Qu\xd5mica Laboratorial Anal\xd5tica, Lda, Beloura Office Park'), ('address2', 'Edif\xd5cio 11')]
+
+447:
+		[('address3', '')]
+
+45:
+		[('address3', '')]
+
+450:
+		[('address3', '')]
+
+461:
+		[('address3', '')]
+
+465:
+		[('address3', '')]
+
+467:
+		[('facility', 'bioM\x8erieux Australia')]
+
+47:
+		[('address3', '')]
+
+471:
+		[('address3', '')]
+
+472:
+		[('facility', 'bioM\x8erieux Australia')]
+
+473:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+477:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+479:
+		[('facility', 'bioM\x8erieux Australia')]
+
+483:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+485:
+		[('facility', 'bioM\x8erieux Australia')]
+
+49:
+		[('address1', 'Arag\x97n 90, Apartado 35.027, 08015 Barcelona. Spain')]
+
+492:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+495:
+		[('facility', 'bioM\x8erieux Australia')]
+
+498:
+		[('facility', 'bioM\x8erieux Australia')]
+
+5:
+		[('address3', ''), ('phone1', ' +33 3 81 41 38 38')]
+
+50:
+		[('address1', 'Danska gr\x8and 2, 125 34 \x80lvsj\x9a. Sweden')]
+
+505:
+		[('facility', 'bioM\x8erieux Australia')]
+
+507:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+511:
+		[('facility', 'bioM\x8erieux')]
+
+512:
+		[('address1', '36, Rue Ahmed Ouaked, Dely Ibrahim, 16302  Alger '), ('facility', 'bioM\x8erieux')]
+
+513:
+		[('facility', 'bioM\x8erieux')]
+
+515:
+		[('facility', 'bioM\x8erieux Argentina')]
+
+517:
+		[('facility', 'bioM\x8erieux Australia')]
+
+518:
+		[('address1', 'Eduard Kittenberger Gasse 97, Top 3, A-1230  Wien '), ('facility', 'bioM\x8erieux')]
+
+52:
+		[('address3', '')]
+
+520:
+		[('address3', '')]
+
+522:
+		[('address1', 'Media Square, 18-19 Place des Carabiniers, 1030  Bruxelles '), ('facility', 'bioM\x8erieux')]
+
+524:
+		[('address1', 'Rua Ministro Jos\x8e Gallotti'), ('address2', '247 \xd0 CEP 04580-050 Brooklin \xd0 S\x8bo Paulo \xd0 SP'), ('address3', '')]
+
+53:
+		[('address3', '')]
+
+532:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+533:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+534:
+		[('facility', 'bioM\x8erieux')]
+
+535:
+		[('facility', 'bioM\x8erieux')]
+
+536:
+		[('address1', 'Vassinger\x9advej 91C, 3540 Lynge, Denmark ')]
+
+539:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+54:
+		[('address3', '')]
+
+540:
+		[('address1', '8 Osman Abdel Hafeez Street \xd0 2nd District'), ('address3', ''), ('email', 'Info@nouh.com.eg ')]
+
+543:
+		[('facility', 'bioM\x8erieux Australia')]
+
+545:
+		[('facility', 'bioM\x8erieux')]
+
+547:
+		[('address1', 'Postfach 1204, 72602 N\x9frtingen'), ('facility', 'bioM\x8erieux')]
+
+548:
+		[('facility', 'bioM\x8erieux')]
+
+55:
+		[('address3', '')]
+
+550:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+551:
+		[('email', ' cdcinfo@cdc.gov')]
+
+553:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+555:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+556:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+557:
+		[('address1', 'Enseval Building - Kawasan Industri Pulo Gadung - JI. Pulo - Lentut No. 10, 13920  Jakarta Timur '), ('facility', 'bioM\x8erieux')]
+
+558:
+		[('facility', 'bioM\x8erieux')]
+
+56:
+		[('address3', '')]
+
+560:
+		[('facility', 'bioM\x8erieux')]
+
+563:
+		[('facility', 'bioM\x8erieux')]
+
+566:
+		[('address3', '')]
+
+568:
+		[('address3', '')]
+
+570:
+		[('address3', '')]
+
+572:
+		[('facility', 'bioM\x8erieux')]
+
+573:
+		[('facility', 'bioM\x8erieux')]
+
+575:
+		[('facility', 'bioM\x8erieux')]
+
+578:
+		[('email', ' cdcinfo@cdc.gov')]
+
+579:
+		[('facility', 'bioM\x8erieux')]
+
+582:
+		[('address1', 'Chihuahua 88, Col. Progreso, 01080, D.F.  Mexico '), ('facility', 'bioM\x8erieux Mexico')]
+
+583:
+		[('address3', '')]
+
+585:
+		[('facility', 'bioM\x8erieux')]
+
+588:
+		[('address3', '')]
+
+589:
+		[('address1', 'Hogeweg 5, Postbus 2104, 5301 LB  Zaltbommel '), ('facility', 'bioM\x8erieux')]
+
+59:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', '')]
+
+590:
+		[('facility', 'bioM\x8erieux Australia')]
+
+593:
+		[('address3', '')]
+
+594:
+		[('website', 'www.inmunochem.com ')]
+
+595:
+		[('facility', 'bioM\x8erieux Australia')]
+
+597:
+		[('address1', '11th Floor, Pearlbank Centre - 146 Valero Street, Salcedo Village, 1227 Makati City - Philippines '), ('facility', 'bioM\x8erieux')]
+
+598:
+		[('address1', 'ul. Zeromskiego 17, 01-882   Warszawa '), ('facility', 'bioM\x8erieux')]
+
+599:
+		[('address1', 'Av. 25 de Abril de 1974, n\xa1 23-3\xa1'), ('facility', 'bioM\x8erieux')]
+
+6:
+		[('address3', ''), ('facility', 'Gen-Probe Transplant Diagnostics Inc.')]
+
+601:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+603:
+		[('facility', 'bioM\x8erieux Australia')]
+
+604:
+		[('facility', 'bioM\x8erieux')]
+
+606:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+607:
+		[('facility', 'bioM\x8erieux')]
+
+608:
+		[('facility', 'bioM\x8erieux Australia')]
+
+61:
+		[('address2', 'Sao Bernardo do Campo - SP, 09715-130, Brazil '), ('address3', ''), ('phone1', '+55 11 4338 8666 ')]
+
+610:
+		[('facility', 'bioM\x8erieux')]
+
+612:
+		[('address1', 'Avenue blanc 53 - Case postale 2150, 1211 Gen\x8fve 2'), ('facility', 'bioM\x8erieux')]
+
+613:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+617:
+		[('facility', 'bioM\x8erieux Australia')]
+
+618:
+		[('facility', 'bioM\x8erieux')]
+
+62:
+		[('address3', '')]
+
+621:
+		[('facility', 'bioM\x8erieux Australia')]
+
+625:
+		[('facility', 'bioM\x8erieux')]
+
+628:
+		[('facility', 'bioM\x8erieux Australia')]
+
+629:
+		[('facility', 'bioM\x8erieux')]
+
+630:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+635:
+		[('facility', 'bioM\x8erieux')]
+
+636:
+		[('address1', '36, Rue Ahmed Ouaked, Dely Ibrahim, 16302  Alger '), ('facility', 'bioM\x8erieux')]
+
+637:
+		[('facility', 'bioM\x8erieux')]
+
+639:
+		[('facility', 'bioM\x8erieux Argentina')]
+
+64:
+		[('address3', 'Beijing 100085, P.R. China  '), ('facility', 'Beijing Rose Co-Win Medical Tech. Co., Ltd. '), ('phone1', '+86 10 82894088 ')]
+
+641:
+		[('facility', 'bioM\x8erieux Australia')]
+
+642:
+		[('address1', 'Eduard Kittenberger Gasse 97, Top 3, A-1230  Wien '), ('facility', 'bioM\x8erieux')]
+
+644:
+		[('address3', '')]
+
+647:
+		[('address1', 'Rua Ministro Jos\x8e Gallotti'), ('address2', '247 \xd0 CEP 04580-050 Brooklin \xd0 S\x8bo Paulo \xd0 SP'), ('address3', '')]
+
+65:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', '')]
+
+655:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+656:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+657:
+		[('facility', 'bioM\x8erieux')]
+
+658:
+		[('facility', 'bioM\x8erieux')]
+
+659:
+		[('address1', 'Vassinger\x9advej 91C, 3540 Lynge, Denmark ')]
+
+66:
+		[('address3', '')]
+
+662:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+663:
+		[('address1', '8 Osman Abdel Hafeez Street \xd0 2nd District'), ('address3', ''), ('email', 'Info@nouh.com.eg ')]
+
+666:
+		[('facility', 'bioM\x8erieux Australia')]
+
+668:
+		[('facility', 'bioM\x8erieux')]
+
+67:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', '')]
+
+670:
+		[('address1', 'Postfach 1204, 72602 N\x9frtingen'), ('facility', 'bioM\x8erieux')]
+
+671:
+		[('address1', 'Postfach 1204, 72602 N\x9frtingen'), ('facility', 'bioM\x8erieux')]
+
+673:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+674:
+		[('email', ' cdcinfo@cdc.gov')]
+
+676:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+678:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+679:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+68:
+		[('address3', '')]
+
+680:
+		[('address1', 'Enseval Building - Kawasan Industri Pulo Gadung - JI. Pulo - Lentut No. 10, 13920  Jakarta Timur '), ('facility', 'bioM\x8erieux')]
+
+681:
+		[('facility', 'bioM\x8erieux')]
+
+683:
+		[('facility', 'bioM\x8erieux')]
+
+686:
+		[('facility', 'bioM\x8erieux')]
+
+689:
+		[('address3', '')]
+
+69:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', '')]
+
+691:
+		[('address3', '')]
+
+693:
+		[('address3', '')]
+
+695:
+		[('facility', 'bioM\x8erieux')]
+
+696:
+		[('facility', 'bioM\x8erieux')]
+
+698:
+		[('facility', 'bioM\x8erieux')]
+
+7:
+		[('address3', ''), ('fax1', 'Fax: + 262 446-0600 ')]
+
+70:
+		[('address3', ''), ('phone1', '+9144 24993989 ')]
+
+702:
+		[('email', ' cdcinfo@cdc.gov')]
+
+704:
+		[('facility', 'bioM\x8erieux')]
+
+707:
+		[('address1', 'Chihuahua 88, Col. Progreso, 01080, D.F.  Mexico '), ('facility', 'bioM\x8erieux Mexico')]
+
+708:
+		[('address3', '')]
+
+71:
+		[('address3', '')]
+
+710:
+		[('facility', 'bioM\x8erieux')]
+
+713:
+		[('address3', '')]
+
+714:
+		[('address1', 'Hogeweg 5, Postbus 2104, 5301 LB  Zaltbommel '), ('facility', 'bioM\x8erieux')]
+
+715:
+		[('facility', 'bioM\x8erieux Australia')]
+
+718:
+		[('address3', '')]
+
+719:
+		[('website', 'www.inmunochem.com ')]
+
+72:
+		[('address3', '')]
+
+720:
+		[('facility', 'bioM\x8erieux Australia')]
+
+721:
+		[('website', 'www.inmunochem.com ')]
+
+722:
+		[('address1', '11th Floor, Pearlbank Centre - 146 Valero Street, Salcedo Village, 1227 Makati City - Philippines '), ('facility', 'bioM\x8erieux')]
+
+723:
+		[('address1', 'ul. Zeromskiego 17, 01-882   Warszawa '), ('facility', 'bioM\x8erieux')]
+
+724:
+		[('address1', 'Av. 25 de Abril de 1974, n\xa1 23-3\xa1'), ('facility', 'bioM\x8erieux')]
+
+726:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+728:
+		[('facility', 'bioM\x8erieux Australia')]
+
+729:
+		[('facility', 'bioM\x8erieux')]
+
+73:
+		[('address2', ' 20090 Opera, Italy'), ('address3', '')]
+
+731:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+732:
+		[('facility', 'bioM\x8erieux')]
+
+733:
+		[('facility', 'bioM\x8erieux Australia')]
+
+735:
+		[('facility', 'bioM\x8erieux')]
+
+737:
+		[('address1', 'Avenue blanc 53 - Case postale 2150, 1211 Gen\x8fve 2'), ('facility', 'bioM\x8erieux')]
+
+738:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+742:
+		[('facility', 'bioM\x8erieux Australia')]
+
+743:
+		[('facility', 'bioM\x8erieux')]
+
+746:
+		[('facility', 'bioM\x8erieux Australia')]
+
+75:
+		[('address3', ''), ('phone1', '+603 627 330 68/627 360 68 ')]
+
+750:
+		[('facility', 'bioM\x8erieux')]
+
+753:
+		[('facility', 'bioM\x8erieux Australia')]
+
+754:
+		[('facility', 'bioM\x8erieux')]
+
+755:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+761:
+		[('facility', 'GenXpress Service & Vertrieb GmbH ')]
+
+762:
+		[('website', 'www.lucronbioproducts.com ')]
+
+765:
+		[('address3', ''), ('phone1', '1-800-818-8335 '), ('fax1', 'Fax: +1-613-271-1148 ')]
+
+774:
+		[('fax1', 'Fax: +353 1 822 4100 ')]
+
+78:
+		[('email', 'info@diagsolns.com.au ')]
+
+780:
+		[('address3', '')]
+
+783:
+		[('website', 'www.lucronbioproducts.com ')]
+
+785:
+		[('facility', 'Scientech Ltd '), ('phone1', '+356 9945 5980 '), ('email', 'scientech@waldonet.net.mt ')]
+
+786:
+		[('address2', 'M\x8exico, 06141'), ('address3', '')]
+
+787:
+		[('website', 'www.lucronbioproducts.com ')]
+
+788:
+		[('email', 'mail@montebello.no ')]
+
+792:
+		[('address1', 'Qu\xd5mica Laboratorial Anal\xd5tica, Lda, Beloura Office Park'), ('address2', 'Edif\xd5cio 11')]
+
+796:
+		[('address1', 'Arag\xddn 90, Apartado 35.027, 08015 Barcelona. Spain')]
+
+799:
+		[('address3', '')]
+
+8:
+		[('address3', ''), ('phone1', '+44 0 161 946 2200 ')]
+
+805:
+		[('facility', 'bioM\x8erieux')]
+
+806:
+		[('address1', '36, Rue Ahmed Ouaked, Dely Ibrahim, 16302  Alger '), ('facility', 'bioM\x8erieux')]
+
+807:
+		[('facility', 'bioM\x8erieux')]
+
+809:
+		[('facility', 'bioM\x8erieux Argentina')]
+
+811:
+		[('facility', 'bioM\x8erieux Australia')]
+
+812:
+		[('address1', 'Eduard Kittenberger Gasse 97, Top 3, A-1230  Wien '), ('facility', 'bioM\x8erieux')]
+
+814:
+		[('address3', '')]
+
+816:
+		[('address1', 'Media Square, 18-19 Place des Carabiniers, 1030  Bruxelles '), ('facility', 'bioM\x8erieux')]
+
+818:
+		[('address1', 'Rua Ministro Jos\x8e Gallotti'), ('address2', '247 \xd0 CEP 04580-050 Brooklin \xd0 S\x8bo Paulo \xd0 SP'), ('address3', '')]
+
+82:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', '')]
+
+826:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+827:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+828:
+		[('facility', 'bioM\x8erieux')]
+
+829:
+		[('facility', 'bioM\x8erieux')]
+
+83:
+		[('address3', '')]
+
+830:
+		[('address1', 'Vassinger\x9advej 91C, 3540 Lynge, Denmark ')]
+
+833:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+834:
+		[('address1', '8 Osman Abdel Hafeez Street \xd0 2nd District'), ('address3', ''), ('email', 'Info@nouh.com.eg ')]
+
+837:
+		[('facility', 'bioM\x8erieux Australia')]
+
+839:
+		[('facility', 'bioM\x8erieux')]
+
+84:
+		[('address3', '')]
+
+841:
+		[('address1', 'Postfach 1204, 72602 N\x9frtingen'), ('facility', 'bioM\x8erieux')]
+
+842:
+		[('facility', 'bioM\x8erieux')]
+
+844:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+845:
+		[('email', ' cdcinfo@cdc.gov')]
+
+847:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+849:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+850:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+851:
+		[('address1', 'Enseval Building - Kawasan Industri Pulo Gadung - JI. Pulo - Lentut No. 10, 13920  Jakarta Timur '), ('facility', 'bioM\x8erieux')]
+
+852:
+		[('facility', 'bioM\x8erieux')]
+
+854:
+		[('facility', 'bioM\x8erieux')]
+
+857:
+		[('facility', 'bioM\x8erieux')]
+
+86:
+		[('address3', '')]
+
+860:
+		[('address3', '')]
+
+862:
+		[('address3', '')]
+
+864:
+		[('address3', '')]
+
+866:
+		[('facility', 'bioM\x8erieux')]
+
+867:
+		[('facility', 'bioM\x8erieux')]
+
+869:
+		[('facility', 'bioM\x8erieux')]
+
+87:
+		[('address1', 'Niederh\x9achst\x8adter Stra\xa7e 62'), ('address3', '')]
+
+873:
+		[('email', ' cdcinfo@cdc.gov')]
+
+875:
+		[('facility', 'bioM\x8erieux')]
+
+878:
+		[('address1', 'Chihuahua 88, Col. Progreso, 01080, D.F.  Mexico '), ('facility', 'bioM\x8erieux Mexico')]
+
+879:
+		[('address3', '')]
+
+88:
+		[('address3', ''), ('fax1', 'Fax: +27 12 362 2030 ')]
+
+881:
+		[('facility', 'bioM\x8erieux')]
+
+884:
+		[('address3', '')]
+
+885:
+		[('address1', 'Hogeweg 5, Postbus 2104, 5301 LB  Zaltbommel '), ('facility', 'bioM\x8erieux')]
+
+886:
+		[('facility', 'bioM\x8erieux Australia')]
+
+889:
+		[('address3', '')]
+
+89:
+		[('address2', 'Yangcheon-ku, Seoul, 158-076, Korea '), ('address3', ''), ('facility', 'Tae Yeong CnL '), ('phone1', '+82 2-2061-1902 ')]
+
+890:
+		[('website', 'www.inmunochem.com ')]
+
+891:
+		[('facility', 'bioM\x8erieux Australia')]
+
+892:
+		[('website', 'www.inmunochem.com ')]
+
+893:
+		[('address1', '11th Floor, Pearlbank Centre - 146 Valero Street, Salcedo Village, 1227 Makati City - Philippines '), ('facility', 'bioM\x8erieux')]
+
+894:
+		[('address1', 'ul. Zeromskiego 17, 01-882   Warszawa '), ('facility', 'bioM\x8erieux')]
+
+895:
+		[('address1', 'Av. 25 de Abril de 1974, n\xa1 23-3\xa1'), ('facility', 'bioM\x8erieux')]
+
+897:
+		[('address1', 'WTC - Moscow, 12, Krasnopresnenskaya nab, Building #2, Suite #931, Russian Federation 123610 ')]
+
+899:
+		[('facility', 'bioM\x8erieux Australia')]
+
+9:
+		[('address3', '')]
+
+900:
+		[('facility', 'bioM\x8erieux')]
+
+902:
+		[('email', 'sales@innovativebiotech.com.sg ')]
+
+903:
+		[('facility', 'bioM\x8erieux')]
+
+904:
+		[('facility', 'bioM\x8erieux')]
+
+905:
+		[('facility', 'bioM\x8erieux Australia')]
+
+907:
+		[('facility', 'bioM\x8erieux')]
+
+909:
+		[('address1', 'Avenue blanc 53 - Case postale 2150, 1211 Gen\x8fve 2'), ('facility', 'bioM\x8erieux')]
+
+91:
+		[('address3', '')]
+
+910:
+		[('facility', 'bioM\x8erieux China, Taiwan Branch')]
+
+914:
+		[('facility', 'bioM\x8erieux Australia')]
+
+915:
+		[('facility', 'bioM\x8erieux')]
+
+918:
+		[('facility', 'bioM\x8erieux Australia')]
+
+92:
+		[('address3', '')]
+
+922:
+		[('facility', 'bioM\x8erieux')]
+
+925:
+		[('facility', 'bioM\x8erieux Australia')]
+
+926:
+		[('facility', 'bioM\x8erieux')]
+
+927:
+		[('phone1', '+58 212 2370780 '), ('fax1', 'Fax: +58 212 2346176 '), ('email', 'mercadeo.ventas@inmunolab.com ')]
+
+932:
+		[('facility', 'bioM\x8erieux')]
+
+933:
+		[('address1', '36, Rue Ahmed Ouaked, Dely Ibrahim, 16302  Alger '), ('facility', 'bioM\x8erieux')]
+
+934:
+		[('facility', 'bioM\x8erieux')]
+
+936:
+		[('facility', 'bioM\x8erieux Argentina')]
+
+938:
+		[('facility', 'bioM\x8erieux Australia')]
+
+939:
+		[('address1', 'Eduard Kittenberger Gasse 97, Top 3, A-1230  Wien '), ('facility', 'bioM\x8erieux')]
+
+94:
+		[('address3', '')]
+
+941:
+		[('address3', '')]
+
+943:
+		[('address1', 'Media Square, 18-19 Place des Carabiniers, 1030  Bruxelles '), ('facility', 'bioM\x8erieux')]
+
+945:
+		[('address1', 'Rua Ministro Jos\x8e Gallotti'), ('address2', '247 \xd0 CEP 04580-050 Brooklin \xd0 S\x8bo Paulo \xd0 SP'), ('address3', '')]
+
+95:
+		[('address3', '')]
+
+953:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+954:
+		[('address1', '2524-1000 San Jos\x8e, Costa Rica'), ('email', 'servitec@tecnodiagnostica.com ')]
+
+955:
+		[('facility', 'bioM\x8erieux')]
+
+956:
+		[('facility', 'bioM\x8erieux')]
+
+957:
+		[('address1', 'Vassinger\x9advej 91C, 3540 Lynge, Denmark ')]
+
+96:
+		[('address3', '')]
+
+960:
+		[('address1', 'Avenida Quil\x92n 5273'), ('address2', 'Pe\x96alol\x8en, Santiago de Chile'), ('address3', '')]
+
+961:
+		[('address1', '8 Osman Abdel Hafeez Street \xd0 2nd District'), ('address3', ''), ('email', 'Info@nouh.com.eg ')]
+
+964:
+		[('facility', 'bioM\x8erieux Australia')]
+
+966:
+		[('facility', 'bioM\x8erieux')]
+
+968:
+		[('address1', 'Postfach 1204, 72602 N\x9frtingen'), ('facility', 'bioM\x8erieux')]
+
+969:
+		[('facility', 'bioM\x8erieux')]
+
+97:
+		[('address3', '')]
+
+971:
+		[('address1', 'Avenida Quil\x92n 5273, Pe\x96alol\x8en, Santiago de Chile')]
+
+972:
+		[('email', ' cdcinfo@cdc.gov')]
+
+974:
+		[('address1', '17/Floor, Yen Sheng Centre, 64 Hoi Yuen Road, Kwun Tong, Kowloon - Hong Kong '), ('facility', 'bioM\x8erieux China')]
+
+976:
+		[('address1', 'Flatahrauni 31, 220 Hafnarfj\x9ar?ur, Iceland')]
+
+977:
+		[('address3', 'New Delhi \xd0 110044, India'), ('facility', 'bioM\x8erieux India')]
+
+978:
+		[('address1', 'Enseval Building - Kawasan Industri Pulo Gadung - JI. Pulo - Lentut No. 10, 13920  Jakarta Timur '), ('facility', 'bioM\x8erieux')]
+
+979:
+		[('facility', 'bioM\x8erieux')]
+
+981:
+		[('facility', 'bioM\x8erieux')]
+
+984:
+		[('facility', 'bioM\x8erieux')]
+
+987:
+		[('address3', '')]
+
+989:
+		[('address3', '')]
+
+99:
+		[('address3', ''), ('facility', 'H\x85LZEL DIAGNOSTIKA Handels GmbH')]
+
+991:
+		[('address3', '')]
+
+993:
+		[('facility', 'bioM\x8erieux')]
+
+994:
+		[('facility', 'bioM\x8erieux')]
+
+996:
+		[('facility', 'bioM\x8erieux')]
+

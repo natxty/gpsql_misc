@@ -1,0 +1,450 @@
+LIFECODES HLA Genotyping	Kuwait
+LIFECODES HLA Genotyping	Libya
+LIFECODES HLA Genotyping	Saudi Arabia
+LIFECODES HLA Genotyping	Australia
+LIFECODES HLA Genotyping	Bulgaria
+LIFECODES HLA Genotyping	United Kingdom
+LIFECODES HLA Genotyping	Panama
+LIFECODES HLA Genotyping	Fyrom
+LIFECODES HLA Genotyping	South Korea
+LIFECODES HLA Genotyping	Qatar
+LIFECODES HLA Genotyping	New Zealand
+LIFECODES HLA Genotyping	Austria
+LIFECODES HLA Genotyping	Czech Republic
+LIFECODES HLA Genotyping	South Africa
+LIFECODES HLA Genotyping	Slovakia
+LIFECODES HLA Genotyping	Romania
+LIFECODES HLA Genotyping	United Arab Emirates
+LIFECODES HLA Genotyping	China
+LIFECODES HLA Genotyping	Bahrain
+LIFECODES HLA Genotyping	Indonesia
+LIFECODES HLA Genotyping	Malaysia
+LIFECODES HLA Genotyping	Thailand
+LIFECODES HLA Genotyping	Benelux-France
+LIFECODES HLA Genotyping	Singapore
+LIFECODES HLA Genotyping	Republica Muldova
+LIFECODES HLA Genotyping	Spain
+LIFECODES HLA Genotyping	Israel
+LIFECODES HLA Genotyping	Portugal
+LIFECODES HLA Genotyping	Germany
+LIFECODES HLA Genotyping	Poland
+LIFECODES HLA Genotyping	Chile
+LIFECODES HLA Genotyping	India
+LIFECODES HLA Genotyping	Greece
+LIFECODES HLA Genotyping	Turkey
+LIFECODES HLA Genotyping	Jordan
+LIFECODES HLA Genotyping	Columbia
+LIFECODES HLA Genotyping	Algeria
+LIFECODES HLA Genotyping	Hungary
+LIFECODES HLA Genotyping	Albania
+LIFECODES HLA Genotyping	Tunisia
+LIFECODES HLA Genotyping	Mexico
+LIFECODES HLA Genotyping	Italy
+LIFECODES HLA Genotyping	Peru
+LIFECODES HLA Genotyping	Taiwan
+LIFECODES HLA Genotyping	Morocco
+LIFECODES HLA Genotyping	Brazil
+LIFECODES HLA Genotyping	Iraq
+LIFECODES HLA Genotyping	United States
+LIFECODES HLA Genotyping	Oman
+LIFECODES HLA Genotyping	Former Yugoslavia
+LIFECODES Donor Specific Antibody	Morocco
+LIFECODES Donor Specific Antibody	Qatar
+LIFECODES Donor Specific Antibody	Algeria
+LIFECODES Donor Specific Antibody	Jordan
+LIFECODES Donor Specific Antibody	United States
+LIFECODES Donor Specific Antibody	Portugal
+LIFECODES Donor Specific Antibody	Tunisia
+LIFECODES Donor Specific Antibody	China
+LIFECODES Donor Specific Antibody	Malaysia
+LIFECODES Donor Specific Antibody	Bahrain
+LIFECODES Donor Specific Antibody	United Kingdom
+LIFECODES Donor Specific Antibody	Columbia
+LIFECODES Donor Specific Antibody	Former Yugoslavia
+LIFECODES Donor Specific Antibody	Iraq
+LIFECODES Donor Specific Antibody	Germany
+LIFECODES Donor Specific Antibody	Indonesia
+LIFECODES Donor Specific Antibody	Austria
+LIFECODES Donor Specific Antibody	Peru
+LIFECODES Donor Specific Antibody	Chile
+LIFECODES Donor Specific Antibody	Turkey
+LIFECODES Donor Specific Antibody	Brazil
+LIFECODES Donor Specific Antibody	Saudi Arabia
+LIFECODES Donor Specific Antibody	Czech Republic
+LIFECODES Donor Specific Antibody	South Korea
+LIFECODES Donor Specific Antibody	South Africa
+LIFECODES Donor Specific Antibody	Australia
+LIFECODES Donor Specific Antibody	Poland
+LIFECODES Donor Specific Antibody	Singapore
+LIFECODES Donor Specific Antibody	Israel
+LIFECODES Donor Specific Antibody	India
+LIFECODES Donor Specific Antibody	Romania
+LIFECODES Donor Specific Antibody	Mexico
+LIFECODES Donor Specific Antibody	Slovakia
+LIFECODES Donor Specific Antibody	Italy
+LIFECODES Donor Specific Antibody	Hungary
+LIFECODES Donor Specific Antibody	Benelux-France
+LIFECODES Donor Specific Antibody	Panama
+LIFECODES Donor Specific Antibody	Thailand
+LIFECODES Donor Specific Antibody	Spain
+LIFECODES Donor Specific Antibody	Oman
+LIFECODES Donor Specific Antibody	United Arab Emirates
+LIFECODES Donor Specific Antibody	New Zealand
+LIFECODES Donor Specific Antibody	Albania
+LIFECODES Donor Specific Antibody	Libya
+LIFECODES Donor Specific Antibody	Fyrom
+LIFECODES Donor Specific Antibody	Greece
+LIFECODES Donor Specific Antibody	Kuwait
+LIFECODES Donor Specific Antibody	Taiwan
+LIFECODES Donor Specific Antibody	Bulgaria
+LIFECODES Donor Specific Antibody	Republica Muldova
+Gen-Probe Fluoroanalyzer	United Kingdom
+Gen-Probe Fluoroanalyzer	Singapore
+Gen-Probe Fluoroanalyzer	South Africa
+Gen-Probe Fluoroanalyzer	Qatar
+Gen-Probe Fluoroanalyzer	Saudi Arabia
+Gen-Probe Fluoroanalyzer	Germany
+Gen-Probe Fluoroanalyzer	India
+Gen-Probe Fluoroanalyzer	Oman
+Gen-Probe Fluoroanalyzer	Israel
+Gen-Probe Fluoroanalyzer	Greece
+Gen-Probe Fluoroanalyzer	Australia
+Gen-Probe Fluoroanalyzer	Bahrain
+Gen-Probe Fluoroanalyzer	China
+Gen-Probe Fluoroanalyzer	Austria
+Gen-Probe Fluoroanalyzer	Columbia
+Gen-Probe Fluoroanalyzer	United Arab Emirates
+Gen-Probe Fluoroanalyzer	Romania
+Gen-Probe Fluoroanalyzer	New Zealand
+Gen-Probe Fluoroanalyzer	Panama
+Gen-Probe Fluoroanalyzer	Albania
+Gen-Probe Fluoroanalyzer	Indonesia
+Gen-Probe Fluoroanalyzer	Taiwan
+Gen-Probe Fluoroanalyzer	Czech Republic
+Gen-Probe Fluoroanalyzer	United States
+Gen-Probe Fluoroanalyzer	Jordan
+Gen-Probe Fluoroanalyzer	Former Yugoslavia
+Gen-Probe Fluoroanalyzer	Italy
+Gen-Probe Fluoroanalyzer	Turkey
+Gen-Probe Fluoroanalyzer	Iraq
+Gen-Probe Fluoroanalyzer	Chile
+Gen-Probe Fluoroanalyzer	Kuwait
+Gen-Probe Fluoroanalyzer	Republica Muldova
+Gen-Probe Fluoroanalyzer	Thailand
+Gen-Probe Fluoroanalyzer	Brazil
+Gen-Probe Fluoroanalyzer	Hungary
+Gen-Probe Fluoroanalyzer	Algeria
+Gen-Probe Fluoroanalyzer	Morocco
+Gen-Probe Fluoroanalyzer	Malaysia
+Gen-Probe Fluoroanalyzer	Benelux-France
+Gen-Probe Fluoroanalyzer	Peru
+Gen-Probe Fluoroanalyzer	Fyrom
+Gen-Probe Fluoroanalyzer	Libya
+Gen-Probe Fluoroanalyzer	South Korea
+Gen-Probe Fluoroanalyzer	Spain
+Gen-Probe Fluoroanalyzer	Poland
+Gen-Probe Fluoroanalyzer	Portugal
+Gen-Probe Fluoroanalyzer	Tunisia
+Gen-Probe Fluoroanalyzer	Bulgaria
+Gen-Probe Fluoroanalyzer	Slovakia
+Gen-Probe Fluoroanalyzer	Mexico
+LIFECODES Cytokine SNP Typing	Libya
+LIFECODES Cytokine SNP Typing	Saudi Arabia
+LIFECODES Cytokine SNP Typing	New Zealand
+LIFECODES Cytokine SNP Typing	Indonesia
+LIFECODES Cytokine SNP Typing	Benelux-France
+LIFECODES Cytokine SNP Typing	Poland
+LIFECODES Cytokine SNP Typing	Oman
+LIFECODES Cytokine SNP Typing	Taiwan
+LIFECODES Cytokine SNP Typing	Germany
+LIFECODES Cytokine SNP Typing	United Arab Emirates
+LIFECODES Cytokine SNP Typing	United States
+LIFECODES Cytokine SNP Typing	South Africa
+LIFECODES Cytokine SNP Typing	Greece
+LIFECODES Cytokine SNP Typing	India
+LIFECODES Cytokine SNP Typing	Fyrom
+LIFECODES Cytokine SNP Typing	Chile
+LIFECODES Cytokine SNP Typing	Algeria
+LIFECODES Cytokine SNP Typing	Panama
+LIFECODES Cytokine SNP Typing	Brazil
+LIFECODES Cytokine SNP Typing	Mexico
+LIFECODES Cytokine SNP Typing	Slovakia
+LIFECODES Cytokine SNP Typing	Thailand
+LIFECODES Cytokine SNP Typing	Republica Muldova
+LIFECODES Cytokine SNP Typing	Bahrain
+LIFECODES Cytokine SNP Typing	China
+LIFECODES Cytokine SNP Typing	Singapore
+LIFECODES Cytokine SNP Typing	Albania
+LIFECODES Cytokine SNP Typing	Qatar
+LIFECODES Cytokine SNP Typing	Iraq
+LIFECODES Cytokine SNP Typing	Czech Republic
+LIFECODES Cytokine SNP Typing	Portugal
+LIFECODES Cytokine SNP Typing	Italy
+LIFECODES Cytokine SNP Typing	Spain
+LIFECODES Cytokine SNP Typing	Israel
+LIFECODES Cytokine SNP Typing	Jordan
+LIFECODES Cytokine SNP Typing	Bulgaria
+LIFECODES Cytokine SNP Typing	Australia
+LIFECODES Cytokine SNP Typing	Columbia
+LIFECODES Cytokine SNP Typing	Former Yugoslavia
+LIFECODES Cytokine SNP Typing	Tunisia
+LIFECODES Cytokine SNP Typing	United Kingdom
+LIFECODES Cytokine SNP Typing	Hungary
+LIFECODES Cytokine SNP Typing	Romania
+LIFECODES Cytokine SNP Typing	Kuwait
+LIFECODES Cytokine SNP Typing	Austria
+LIFECODES Cytokine SNP Typing	Turkey
+LIFECODES Cytokine SNP Typing	Morocco
+LIFECODES Cytokine SNP Typing	Malaysia
+LIFECODES Cytokine SNP Typing	Peru
+LIFECODES Cytokine SNP Typing	South Korea
+LIFECODES Screen & Identification	Oman
+LIFECODES Screen & Identification	Portugal
+LIFECODES Screen & Identification	Italy
+LIFECODES Screen & Identification	Iraq
+LIFECODES Screen & Identification	Former Yugoslavia
+LIFECODES Screen & Identification	Brazil
+LIFECODES Screen & Identification	United Kingdom
+LIFECODES Screen & Identification	Taiwan
+LIFECODES Screen & Identification	United States
+LIFECODES Screen & Identification	Israel
+LIFECODES Screen & Identification	Australia
+LIFECODES Screen & Identification	Romania
+LIFECODES Screen & Identification	Jordan
+LIFECODES Screen & Identification	Turkey
+LIFECODES Screen & Identification	Czech Republic
+LIFECODES Screen & Identification	Columbia
+LIFECODES Screen & Identification	Republica Muldova
+LIFECODES Screen & Identification	Thailand
+LIFECODES Screen & Identification	Poland
+LIFECODES Screen & Identification	Austria
+LIFECODES Screen & Identification	Benelux-France
+LIFECODES Screen & Identification	Kuwait
+LIFECODES Screen & Identification	Bahrain
+LIFECODES Screen & Identification	Saudi Arabia
+LIFECODES Screen & Identification	New Zealand
+LIFECODES Screen & Identification	Slovakia
+LIFECODES Screen & Identification	Mexico
+LIFECODES Screen & Identification	Spain
+LIFECODES Screen & Identification	Morocco
+LIFECODES Screen & Identification	Chile
+LIFECODES Screen & Identification	United Arab Emirates
+LIFECODES Screen & Identification	Hungary
+LIFECODES Screen & Identification	Qatar
+LIFECODES Screen & Identification	Panama
+LIFECODES Screen & Identification	India
+LIFECODES Screen & Identification	China
+LIFECODES Screen & Identification	Tunisia
+LIFECODES Screen & Identification	Algeria
+LIFECODES Screen & Identification	Libya
+LIFECODES Screen & Identification	Albania
+LIFECODES Screen & Identification	Malaysia
+LIFECODES Screen & Identification	Peru
+LIFECODES Screen & Identification	Germany
+LIFECODES Screen & Identification	Bulgaria
+LIFECODES Screen & Identification	Singapore
+LIFECODES Screen & Identification	South Korea
+LIFECODES Screen & Identification	Indonesia
+LIFECODES Screen & Identification	South Africa
+LIFECODES Screen & Identification	Fyrom
+LIFECODES Screen & Identification	Greece
+LIFECODES LSA Single Antigen	Panama
+LIFECODES LSA Single Antigen	Former Yugoslavia
+LIFECODES LSA Single Antigen	Algeria
+LIFECODES LSA Single Antigen	United Arab Emirates
+LIFECODES LSA Single Antigen	Romania
+LIFECODES LSA Single Antigen	India
+LIFECODES LSA Single Antigen	New Zealand
+LIFECODES LSA Single Antigen	United States
+LIFECODES LSA Single Antigen	Brazil
+LIFECODES LSA Single Antigen	Qatar
+LIFECODES LSA Single Antigen	Taiwan
+LIFECODES LSA Single Antigen	Italy
+LIFECODES LSA Single Antigen	Albania
+LIFECODES LSA Single Antigen	Czech Republic
+LIFECODES LSA Single Antigen	Chile
+LIFECODES LSA Single Antigen	Indonesia
+LIFECODES LSA Single Antigen	Oman
+LIFECODES LSA Single Antigen	Jordan
+LIFECODES LSA Single Antigen	Australia
+LIFECODES LSA Single Antigen	Saudi Arabia
+LIFECODES LSA Single Antigen	United Kingdom
+LIFECODES LSA Single Antigen	Bahrain
+LIFECODES LSA Single Antigen	China
+LIFECODES LSA Single Antigen	South Africa
+LIFECODES LSA Single Antigen	Greece
+LIFECODES LSA Single Antigen	Libya
+LIFECODES LSA Single Antigen	Mexico
+LIFECODES LSA Single Antigen	Peru
+LIFECODES LSA Single Antigen	Columbia
+LIFECODES LSA Single Antigen	Austria
+LIFECODES LSA Single Antigen	Spain
+LIFECODES LSA Single Antigen	Poland
+LIFECODES LSA Single Antigen	Israel
+LIFECODES LSA Single Antigen	Portugal
+LIFECODES LSA Single Antigen	Tunisia
+LIFECODES LSA Single Antigen	Slovakia
+LIFECODES LSA Single Antigen	South Korea
+LIFECODES LSA Single Antigen	Malaysia
+LIFECODES LSA Single Antigen	Morocco
+LIFECODES LSA Single Antigen	Fyrom
+LIFECODES LSA Single Antigen	Singapore
+LIFECODES LSA Single Antigen	Turkey
+LIFECODES LSA Single Antigen	Bulgaria
+LIFECODES LSA Single Antigen	Kuwait
+LIFECODES LSA Single Antigen	Hungary
+LIFECODES LSA Single Antigen	Iraq
+LIFECODES LSA Single Antigen	Germany
+LIFECODES LSA Single Antigen	Republica Muldova
+LIFECODES LSA Single Antigen	Thailand
+LIFECODES LSA Single Antigen	Benelux-France
+LIFECODES Red Cell Genotyping	Columbia
+LIFECODES Red Cell Genotyping	Mexico
+LIFECODES Red Cell Genotyping	Peru
+LIFECODES Red Cell Genotyping	Oman
+LIFECODES Red Cell Genotyping	Iraq
+LIFECODES Red Cell Genotyping	Bulgaria
+LIFECODES Red Cell Genotyping	Kuwait
+LIFECODES Red Cell Genotyping	Australia
+LIFECODES Red Cell Genotyping	United States
+LIFECODES Red Cell Genotyping	Taiwan
+LIFECODES Red Cell Genotyping	United Arab Emirates
+LIFECODES Red Cell Genotyping	Benelux-France
+LIFECODES Red Cell Genotyping	South Korea
+LIFECODES Red Cell Genotyping	Israel
+LIFECODES Red Cell Genotyping	Greece
+LIFECODES Red Cell Genotyping	United Kingdom
+LIFECODES Red Cell Genotyping	New Zealand
+LIFECODES Red Cell Genotyping	Panama
+LIFECODES Red Cell Genotyping	Albania
+LIFECODES Red Cell Genotyping	Bahrain
+LIFECODES Red Cell Genotyping	Austria
+LIFECODES Red Cell Genotyping	Czech Republic
+LIFECODES Red Cell Genotyping	Romania
+LIFECODES Red Cell Genotyping	Turkey
+LIFECODES Red Cell Genotyping	Morocco
+LIFECODES Red Cell Genotyping	Thailand
+LIFECODES Red Cell Genotyping	Republica Muldova
+LIFECODES Red Cell Genotyping	Algeria
+LIFECODES Red Cell Genotyping	China
+LIFECODES Red Cell Genotyping	Jordan
+LIFECODES Red Cell Genotyping	Indonesia
+LIFECODES Red Cell Genotyping	Hungary
+LIFECODES Red Cell Genotyping	Slovakia
+LIFECODES Red Cell Genotyping	Spain
+LIFECODES Red Cell Genotyping	Fyrom
+LIFECODES Red Cell Genotyping	Poland
+LIFECODES Red Cell Genotyping	Tunisia
+LIFECODES Red Cell Genotyping	Malaysia
+LIFECODES Red Cell Genotyping	Portugal
+LIFECODES Red Cell Genotyping	South Africa
+LIFECODES Red Cell Genotyping	Former Yugoslavia
+LIFECODES Red Cell Genotyping	Qatar
+LIFECODES Red Cell Genotyping	India
+LIFECODES Red Cell Genotyping	Germany
+LIFECODES Red Cell Genotyping	Singapore
+LIFECODES Red Cell Genotyping	Italy
+LIFECODES Red Cell Genotyping	Chile
+LIFECODES Red Cell Genotyping	Saudi Arabia
+LIFECODES Red Cell Genotyping	Libya
+LIFECODES Red Cell Genotyping	Brazil
+LIFECODES KIR Genotyping	Greece
+LIFECODES KIR Genotyping	Libya
+LIFECODES KIR Genotyping	Taiwan
+LIFECODES KIR Genotyping	United Kingdom
+LIFECODES KIR Genotyping	Albania
+LIFECODES KIR Genotyping	Israel
+LIFECODES KIR Genotyping	Slovakia
+LIFECODES KIR Genotyping	Mexico
+LIFECODES KIR Genotyping	South Africa
+LIFECODES KIR Genotyping	Fyrom
+LIFECODES KIR Genotyping	Italy
+LIFECODES KIR Genotyping	Germany
+LIFECODES KIR Genotyping	Columbia
+LIFECODES KIR Genotyping	Saudi Arabia
+LIFECODES KIR Genotyping	Malaysia
+LIFECODES KIR Genotyping	Oman
+LIFECODES KIR Genotyping	Spain
+LIFECODES KIR Genotyping	Peru
+LIFECODES KIR Genotyping	Australia
+LIFECODES KIR Genotyping	Turkey
+LIFECODES KIR Genotyping	Chile
+LIFECODES KIR Genotyping	Former Yugoslavia
+LIFECODES KIR Genotyping	Tunisia
+LIFECODES KIR Genotyping	Republica Muldova
+LIFECODES KIR Genotyping	Bahrain
+LIFECODES KIR Genotyping	Poland
+LIFECODES KIR Genotyping	Czech Republic
+LIFECODES KIR Genotyping	Kuwait
+LIFECODES KIR Genotyping	Iraq
+LIFECODES KIR Genotyping	New Zealand
+LIFECODES KIR Genotyping	Romania
+LIFECODES KIR Genotyping	Austria
+LIFECODES KIR Genotyping	Brazil
+LIFECODES KIR Genotyping	Thailand
+LIFECODES KIR Genotyping	Qatar
+LIFECODES KIR Genotyping	India
+LIFECODES KIR Genotyping	Bulgaria
+LIFECODES KIR Genotyping	Morocco
+LIFECODES KIR Genotyping	United States
+LIFECODES KIR Genotyping	South Korea
+LIFECODES KIR Genotyping	Hungary
+LIFECODES KIR Genotyping	Panama
+LIFECODES KIR Genotyping	Portugal
+LIFECODES KIR Genotyping	Singapore
+LIFECODES KIR Genotyping	China
+LIFECODES KIR Genotyping	United Arab Emirates
+LIFECODES KIR Genotyping	Jordan
+LIFECODES KIR Genotyping	Algeria
+LIFECODES KIR Genotyping	Benelux-France
+LIFECODES KIR Genotyping	Indonesia
+LIFECODES LSA MIC	Malaysia
+LIFECODES LSA MIC	Singapore
+LIFECODES LSA MIC	Peru
+LIFECODES LSA MIC	India
+LIFECODES LSA MIC	China
+LIFECODES LSA MIC	Portugal
+LIFECODES LSA MIC	Italy
+LIFECODES LSA MIC	Poland
+LIFECODES LSA MIC	Iraq
+LIFECODES LSA MIC	Kuwait
+LIFECODES LSA MIC	Morocco
+LIFECODES LSA MIC	Benelux-France
+LIFECODES LSA MIC	Indonesia
+LIFECODES LSA MIC	Bulgaria
+LIFECODES LSA MIC	Israel
+LIFECODES LSA MIC	Greece
+LIFECODES LSA MIC	Romania
+LIFECODES LSA MIC	Libya
+LIFECODES LSA MIC	Slovakia
+LIFECODES LSA MIC	Turkey
+LIFECODES LSA MIC	Republica Muldova
+LIFECODES LSA MIC	Thailand
+LIFECODES LSA MIC	Former Yugoslavia
+LIFECODES LSA MIC	Brazil
+LIFECODES LSA MIC	United States
+LIFECODES LSA MIC	Panama
+LIFECODES LSA MIC	Spain
+LIFECODES LSA MIC	Algeria
+LIFECODES LSA MIC	Mexico
+LIFECODES LSA MIC	Fyrom
+LIFECODES LSA MIC	Saudi Arabia
+LIFECODES LSA MIC	New Zealand
+LIFECODES LSA MIC	Qatar
+LIFECODES LSA MIC	Columbia
+LIFECODES LSA MIC	Austria
+LIFECODES LSA MIC	Australia
+LIFECODES LSA MIC	Germany
+LIFECODES LSA MIC	Albania
+LIFECODES LSA MIC	South Korea
+LIFECODES LSA MIC	South Africa
+LIFECODES LSA MIC	Hungary
+LIFECODES LSA MIC	Tunisia
+LIFECODES LSA MIC	Czech Republic
+LIFECODES LSA MIC	Chile
+LIFECODES LSA MIC	Bahrain
+LIFECODES LSA MIC	Taiwan
+LIFECODES LSA MIC	United Arab Emirates
+LIFECODES LSA MIC	Oman
+LIFECODES LSA MIC	United Kingdom
+LIFECODES LSA MIC	Jordan

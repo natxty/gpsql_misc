@@ -1,0 +1,66 @@
+<script type="text/x-handlebars" data-template-name="contact-us-drilldown">
+  <form id="drilldown" name="drilldown" action="#/search/" method="post">
+	<label class="caps small light"><strong>Information Type</strong></label>
+
+	<select id="itype" name="itype" class="txt contact-us-drilldown-select"> 
+		<option value="0">Select one</option>
+		{{& itype}}
+	</select>
+	                    
+	<label class="caps small light"><strong>Product or Service Type</strong></label>
+	<select id="pstype" name="pstype" class="txt contact-us-drilldown-select" disabled="disabled"> 
+		<option value="0">Select one</option>
+		{{& pstype}}
+	</select>
+	
+	<label class="caps small light"><strong>Product or Service Line</strong></label>
+	<select id="psline" name="psline" class="txt contact-us-drilldown-select" disabled="disabled"> 
+		<option value="0">Select one</option>
+		{{& psline}}
+	</select>
+	
+	<label class="caps small light"><strong>Product or Service Name</strong></label>
+	<select id="psname" name="psname" class="txt contact-us-drilldown-select" disabled="disabled"> 
+		<option value="0">Select one</option>
+		{{& psname}}
+	</select>
+	
+	<label class="caps small light"><strong>Location</strong></label>
+	<select id="locat" name="locat" class="txt contact-us-drilldown-select" disabled="disabled"> 
+		<option value="0">Select one</option>
+		{{& locat}}
+	</select>
+	
+	{{#if displayZip}}
+		<label class="zipcodes caps small light" style="display: inline;"><strong>ZipCode</strong></label>
+		<input name="zipcode" type="text" maxlength="5" style="display: inline; width: 80px; height: 10px; font-size: 9px; font-family: Arial;" class="zipcodes" id="zipcodetext"><br>
+		<input type="submit" value="Search" class="zipcodes" style="display: inline;" id="zipcode">
+	{{/if}}
+	
+	<!--<input type="submit" name="submit" value="Submit">-->
+  </form>						
+</script>
+
+<script type="text/x-handlebars" data-template-name="contact-us-location">
+	{{#if info}}
+	<div id="panelLocation">
+		<p id="sres2" class="sres" style="display: block;">
+		  {{#if is_technicalsupport}}
+			<span class="light small">
+			Technical Support is available to provide service, support, and troubleshooting for GEN-PROBE reagents, instrumentation, and software. Technical Support Representatives provide laboratory operators with an immediate telephone response and dispatching service personnel when necessary. 
+			</span>
+		  {{/if}}
+		  {{#if is_customerservice}}
+			<span class="light small">
+			Customer Service is available for order placement or to answer inquiries regarding the status of an established order. In addition, Customer Service can assist with contractual and/or pricing questions. 
+			</span>
+		  {{/if}}
+			<br><br>
+			{{& info}}
+		</p>
+	</div>
+	{{/if}}
+	{{#if is_loading}}
+		<strong>Loading...</strong>
+	{{/if}}
+</script>
